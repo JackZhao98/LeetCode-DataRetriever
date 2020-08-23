@@ -2,7 +2,7 @@
 
 [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/reverse-integer/) 
 
-[Magic Portal](https://leetcode.com/problems/reverse-integer/)
+:+1: 3590 &nbsp; &nbsp; :thumbsdown: 5639
 
 ## My Submission
 
@@ -69,7 +69,7 @@ Assume we are dealing with an environment which could only store integers within
 [Reverse Bits](https://leetcode.com/problems/reverse-bits/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **4573475** total submissions, **1180453** are accepted, with an acceptance rate of 25.8%. <br>
+Among **4573539** total submissions, **1180479** are accepted, with an acceptance rate of 25.8%. <br>
 
 - Likes: 3590
 - Dislikes: 5639

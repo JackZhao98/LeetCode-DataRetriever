@@ -2,7 +2,7 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/non-decreasing-array/) 
 
-[Magic Portal](https://leetcode.com/problems/non-decreasing-array/)
+:+1: 1982 &nbsp; &nbsp; :thumbsdown: 477
 
 ## My Submission
 
@@ -69,7 +69,7 @@ public:
 
 
 ## What a(n) Easy problem!
-Among **510130** total submissions, **99695** are accepted, with an acceptance rate of 19.5%. <br>
+Among **510152** total submissions, **99697** are accepted, with an acceptance rate of 19.5%. <br>
 
 - Likes: 1982
 - Dislikes: 477

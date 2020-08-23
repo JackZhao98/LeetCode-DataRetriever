@@ -2,7 +2,7 @@
 
 [![Bit Manipulation_badge](https://img.shields.io/badge/topic-Bit Manipulation-green.svg)](https://leetcode.com/problems/number-of-1-bits/) 
 
-[Magic Portal](https://leetcode.com/problems/number-of-1-bits/)
+:+1: 943 &nbsp; &nbsp; :thumbsdown: 536
 
 ## My Submission
 
@@ -75,7 +75,7 @@ int hammingWeight(uint32_t n) {
 [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **749546** total submissions, **374978** are accepted, with an acceptance rate of 50.0%. <br>
+Among **749554** total submissions, **374985** are accepted, with an acceptance rate of 50.0%. <br>
 
 - Likes: 943
 - Dislikes: 536

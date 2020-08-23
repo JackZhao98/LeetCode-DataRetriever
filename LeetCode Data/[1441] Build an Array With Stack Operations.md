@@ -2,7 +2,7 @@
 
 [![Stack_badge](https://img.shields.io/badge/topic-Stack-green.svg)](https://leetcode.com/problems/build-an-array-with-stack-operations/) 
 
-[Magic Portal](https://leetcode.com/problems/build-an-array-with-stack-operations/)
+:+1: 156 &nbsp; &nbsp; :thumbsdown: 187
 
 ## My Submission
 
@@ -96,7 +96,7 @@ Read number 3 and automatically push in the array -&gt; [1,3]
 
 
 ## What a(n) Easy problem!
-Among **31255** total submissions, **21511** are accepted, with an acceptance rate of 68.8%. <br>
+Among **31260** total submissions, **21514** are accepted, with an acceptance rate of 68.8%. <br>
 
 - Likes: 156
 - Dislikes: 187

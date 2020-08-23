@@ -2,7 +2,7 @@
 
 [![Tree_badge](https://img.shields.io/badge/topic-Tree-green.svg)](https://leetcode.com/problems/insert-into-a-binary-search-tree/) 
 
-[Magic Portal](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+:+1: 947 &nbsp; &nbsp; :thumbsdown: 80
 
 ## My Submission
 
@@ -91,7 +91,7 @@ And the value to insert: 5
 [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) (Easy) <br>
 
 ## What a(n) Medium problem!
-Among **148807** total submissions, **115313** are accepted, with an acceptance rate of 77.5%. <br>
+Among **148815** total submissions, **115317** are accepted, with an acceptance rate of 77.5%. <br>
 
 - Likes: 947
 - Dislikes: 80

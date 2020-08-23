@@ -2,7 +2,7 @@
 
 [![Stack_badge](https://img.shields.io/badge/topic-Stack-green.svg)](https://leetcode.com/problems/min-stack/)  [![Design_badge](https://img.shields.io/badge/topic-Design-green.svg)](https://leetcode.com/problems/min-stack/) 
 
-[Magic Portal](https://leetcode.com/problems/min-stack/)
+:+1: 3665 &nbsp; &nbsp; :thumbsdown: 348
 
 ## My Submission
 
@@ -93,7 +93,7 @@ minStack.getMin(); // return -2
 [Max Stack](https://leetcode.com/problems/max-stack/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1304924** total submissions, **582024** are accepted, with an acceptance rate of 44.6%. <br>
+Among **1304936** total submissions, **582031** are accepted, with an acceptance rate of 44.6%. <br>
 
 - Likes: 3665
 - Dislikes: 348

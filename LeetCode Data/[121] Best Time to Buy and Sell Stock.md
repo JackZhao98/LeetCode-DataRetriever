@@ -2,7 +2,7 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  [![Dynamic Programming_badge](https://img.shields.io/badge/topic-Dynamic Programming-green.svg)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
 
-[Magic Portal](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+:+1: 5692 &nbsp; &nbsp; :thumbsdown: 247
 
 ## My Submission
 
@@ -58,7 +58,7 @@ class Solution:
 [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **1849770** total submissions, **934985** are accepted, with an acceptance rate of 50.5%. <br>
+Among **1849826** total submissions, **935022** are accepted, with an acceptance rate of 50.5%. <br>
 
 - Likes: 5692
 - Dislikes: 247

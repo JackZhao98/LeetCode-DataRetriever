@@ -2,7 +2,7 @@
 
 [![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/happy-number/)  [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/happy-number/) 
 
-[Magic Portal](https://leetcode.com/problems/happy-number/)
+:+1: 2307 &nbsp; &nbsp; :thumbsdown: 442
 
 ## My Submission
 
@@ -47,7 +47,7 @@ class Solution:
 [Ugly Number](https://leetcode.com/problems/ugly-number/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1054027** total submissions, **532219** are accepted, with an acceptance rate of 50.5%. <br>
+Among **1054042** total submissions, **532229** are accepted, with an acceptance rate of 50.5%. <br>
 
 - Likes: 2307
 - Dislikes: 442

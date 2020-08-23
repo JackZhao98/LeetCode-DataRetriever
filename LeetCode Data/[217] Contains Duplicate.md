@@ -2,7 +2,7 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/contains-duplicate/)  [![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/contains-duplicate/) 
 
-[Magic Portal](https://leetcode.com/problems/contains-duplicate/)
+:+1: 970 &nbsp; &nbsp; :thumbsdown: 758
 
 ## My Submission
 
@@ -44,7 +44,7 @@ class Solution:
 [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **1076118** total submissions, **603231** are accepted, with an acceptance rate of 56.1%. <br>
+Among **1076140** total submissions, **603249** are accepted, with an acceptance rate of 56.1%. <br>
 
 - Likes: 970
 - Dislikes: 758

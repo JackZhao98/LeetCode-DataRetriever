@@ -2,7 +2,7 @@
 
 [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) 
 
-[Magic Portal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)
+:+1: 95 &nbsp; &nbsp; :thumbsdown: 20
 
 ## My Submission
 
@@ -56,7 +56,7 @@ In the second operation choose x = 2 and y = 0 again, thus arr = [3, 3, 3].
 
 
 ## What a(n) Medium problem!
-Among **15549** total submissions, **12165** are accepted, with an acceptance rate of 78.2%. <br>
+Among **15551** total submissions, **12167** are accepted, with an acceptance rate of 78.2%. <br>
 
 - Likes: 95
 - Dislikes: 20

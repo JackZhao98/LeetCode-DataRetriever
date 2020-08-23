@@ -2,7 +2,7 @@
 
 [![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/longest-palindrome/) 
 
-[Magic Portal](https://leetcode.com/problems/longest-palindrome/)
+:+1: 1202 &nbsp; &nbsp; :thumbsdown: 89
 
 ## My Submission
 
@@ -68,7 +68,7 @@ One longest palindrome that can be built is &quot;dccaccd&quot;, whose length is
 [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **335221** total submissions, **173384** are accepted, with an acceptance rate of 51.7%. <br>
+Among **335274** total submissions, **173433** are accepted, with an acceptance rate of 51.7%. <br>
 
 - Likes: 1202
 - Dislikes: 89

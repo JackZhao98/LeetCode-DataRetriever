@@ -2,7 +2,7 @@
 
 [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/string-to-integer-atoi/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/string-to-integer-atoi/) 
 
-[Magic Portal](https://leetcode.com/problems/string-to-integer-atoi/)
+:+1: 1685 &nbsp; &nbsp; :thumbsdown: 9711
 
 ## My Submission
 
@@ -129,7 +129,7 @@ public:
 [Valid Number](https://leetcode.com/problems/valid-number/) (Hard) <br>
 
 ## What a(n) Medium problem!
-Among **3859465** total submissions, **593910** are accepted, with an acceptance rate of 15.4%. <br>
+Among **3859526** total submissions, **593924** are accepted, with an acceptance rate of 15.4%. <br>
 
 - Likes: 1685
 - Dislikes: 9711

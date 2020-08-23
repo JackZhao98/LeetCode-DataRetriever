@@ -2,7 +2,7 @@
 
 [![Backtracking_badge](https://img.shields.io/badge/topic-Backtracking-green.svg)](https://leetcode.com/problems/iterator-for-combination/)  [![Design_badge](https://img.shields.io/badge/topic-Design-green.svg)](https://leetcode.com/problems/iterator-for-combination/) 
 
-[Magic Portal](https://leetcode.com/problems/iterator-for-combination/)
+:+1: 454 &nbsp; &nbsp; :thumbsdown: 40
 
 ## My Submission
 
@@ -79,7 +79,7 @@ iterator.hasNext(); // returns false
 
 
 ## What a(n) Medium problem!
-Among **46852** total submissions, **33098** are accepted, with an acceptance rate of 70.6%. <br>
+Among **46853** total submissions, **33099** are accepted, with an acceptance rate of 70.6%. <br>
 
 - Likes: 454
 - Dislikes: 40

@@ -2,7 +2,7 @@
 
 [![Linked List_badge](https://img.shields.io/badge/topic-Linked List-green.svg)](https://leetcode.com/problems/merge-two-sorted-lists/) 
 
-[Magic Portal](https://leetcode.com/problems/merge-two-sorted-lists/)
+:+1: 4682 &nbsp; &nbsp; :thumbsdown: 611
 
 ## My Submission
 
@@ -59,7 +59,7 @@ class Solution:
 [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **1993890** total submissions, **1071225** are accepted, with an acceptance rate of 53.7%. <br>
+Among **1993927** total submissions, **1071249** are accepted, with an acceptance rate of 53.7%. <br>
 
 - Likes: 4682
 - Dislikes: 611

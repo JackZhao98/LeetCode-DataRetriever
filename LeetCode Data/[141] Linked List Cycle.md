@@ -2,7 +2,7 @@
 
 [![Linked List_badge](https://img.shields.io/badge/topic-Linked List-green.svg)](https://leetcode.com/problems/linked-list-cycle/)  [![Two Pointers_badge](https://img.shields.io/badge/topic-Two Pointers-green.svg)](https://leetcode.com/problems/linked-list-cycle/) 
 
-[Magic Portal](https://leetcode.com/problems/linked-list-cycle/)
+:+1: 3131 &nbsp; &nbsp; :thumbsdown: 524
 
 ## My Submission
 
@@ -89,8 +89,8 @@ class Solution:
 [Happy Number](https://leetcode.com/problems/happy-number/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1637614** total submissions, **675028** are accepted, with an acceptance rate of 41.2%. <br>
+Among **1637676** total submissions, **675050** are accepted, with an acceptance rate of 41.2%. <br>
 
-- Likes: 3130
+- Likes: 3131
 - Dislikes: 524
 

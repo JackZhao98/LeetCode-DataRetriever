@@ -2,7 +2,7 @@
 
 [![Linked List_badge](https://img.shields.io/badge/topic-Linked List-green.svg)](https://leetcode.com/problems/design-linked-list/)  [![Design_badge](https://img.shields.io/badge/topic-Design-green.svg)](https://leetcode.com/problems/design-linked-list/) 
 
-[Magic Portal](https://leetcode.com/problems/design-linked-list/)
+:+1: 600 &nbsp; &nbsp; :thumbsdown: 722
 
 ## My Submission
 
@@ -210,7 +210,7 @@ linkedList.get(1);&nbsp;&nbsp;&nbsp;         // returns 3
 [Design Skiplist](https://leetcode.com/problems/design-skiplist/) (Hard) <br>
 
 ## What a(n) Medium problem!
-Among **287774** total submissions, **71008** are accepted, with an acceptance rate of 24.7%. <br>
+Among **287810** total submissions, **71013** are accepted, with an acceptance rate of 24.7%. <br>
 
 - Likes: 600
 - Dislikes: 722

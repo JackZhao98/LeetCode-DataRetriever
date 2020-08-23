@@ -2,7 +2,7 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/median-of-two-sorted-arrays/)  [![Binary Search_badge](https://img.shields.io/badge/topic-Binary Search-green.svg)](https://leetcode.com/problems/median-of-two-sorted-arrays/)  [![Divide and Conquer_badge](https://img.shields.io/badge/topic-Divide and Conquer-green.svg)](https://leetcode.com/problems/median-of-two-sorted-arrays/) 
 
-[Magic Portal](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+:+1: 7611 &nbsp; &nbsp; :thumbsdown: 1201
 
 ## My Submission
 
@@ -102,7 +102,7 @@ public:
 
 
 ## What a(n) Hard problem!
-Among **2432053** total submissions, **721964** are accepted, with an acceptance rate of 29.7%. <br>
+Among **2432084** total submissions, **721979** are accepted, with an acceptance rate of 29.7%. <br>
 
 - Likes: 7611
 - Dislikes: 1201

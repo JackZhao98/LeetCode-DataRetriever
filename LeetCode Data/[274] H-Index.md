@@ -2,7 +2,7 @@
 
 [![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/h-index/)  [![Sort_badge](https://img.shields.io/badge/topic-Sort-green.svg)](https://leetcode.com/problems/h-index/) 
 
-[Magic Portal](https://leetcode.com/problems/h-index/)
+:+1: 764 &nbsp; &nbsp; :thumbsdown: 1303
 
 ## My Submission
 
@@ -45,7 +45,7 @@ class Solution:
 [H-Index II](https://leetcode.com/problems/h-index-ii/) (Medium) <br>
 
 ## What a(n) Medium problem!
-Among **510410** total submissions, **185019** are accepted, with an acceptance rate of 36.2%. <br>
+Among **510422** total submissions, **185020** are accepted, with an acceptance rate of 36.2%. <br>
 
 - Likes: 764
 - Dislikes: 1303

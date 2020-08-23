@@ -2,7 +2,7 @@
 
 [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/longest-common-prefix/) 
 
-[Magic Portal](https://leetcode.com/problems/longest-common-prefix/)
+:+1: 2820 &nbsp; &nbsp; :thumbsdown: 1927
 
 ## My Submission
 
@@ -70,7 +70,7 @@ public:
 
 
 ## What a(n) Easy problem!
-Among **2242261** total submissions, **795478** are accepted, with an acceptance rate of 35.5%. <br>
+Among **2242277** total submissions, **795487** are accepted, with an acceptance rate of 35.5%. <br>
 
 - Likes: 2820
 - Dislikes: 1927

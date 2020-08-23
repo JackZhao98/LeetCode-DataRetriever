@@ -2,7 +2,7 @@
 
 [![Linked List_badge](https://img.shields.io/badge/topic-Linked List-green.svg)](https://leetcode.com/problems/intersection-of-two-linked-lists/) 
 
-[Magic Portal](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+:+1: 3909 &nbsp; &nbsp; :thumbsdown: 443
 
 ## My Submission
 
@@ -91,7 +91,7 @@ class Solution:
 [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1216402** total submissions, **496610** are accepted, with an acceptance rate of 40.8%. <br>
+Among **1216409** total submissions, **496615** are accepted, with an acceptance rate of 40.8%. <br>
 
 - Likes: 3909
 - Dislikes: 443

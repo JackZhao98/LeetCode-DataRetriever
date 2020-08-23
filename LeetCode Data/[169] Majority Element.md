@@ -2,7 +2,7 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/majority-element/)  [![Divide and Conquer_badge](https://img.shields.io/badge/topic-Divide and Conquer-green.svg)](https://leetcode.com/problems/majority-element/)  [![Bit Manipulation_badge](https://img.shields.io/badge/topic-Bit Manipulation-green.svg)](https://leetcode.com/problems/majority-element/) 
 
-[Magic Portal](https://leetcode.com/problems/majority-element/)
+:+1: 3453 &nbsp; &nbsp; :thumbsdown: 226
 
 ## My Submission
 
@@ -50,7 +50,7 @@ class Solution:
 [Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1159377** total submissions, **681714** are accepted, with an acceptance rate of 58.8%. <br>
+Among **1159393** total submissions, **681729** are accepted, with an acceptance rate of 58.8%. <br>
 
 - Likes: 3453
 - Dislikes: 226

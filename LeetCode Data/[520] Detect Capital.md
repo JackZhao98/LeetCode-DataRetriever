@@ -2,7 +2,7 @@
 
 [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/detect-capital/) 
 
-[Magic Portal](https://leetcode.com/problems/detect-capital/)
+:+1: 639 &nbsp; &nbsp; :thumbsdown: 278
 
 ## My Submission
 
@@ -73,7 +73,7 @@ Otherwise, we define that this word doesn&#39;t use capitals in a right way.
 
 
 ## What a(n) Easy problem!
-Among **313324** total submissions, **168992** are accepted, with an acceptance rate of 53.9%. <br>
+Among **313344** total submissions, **169004** are accepted, with an acceptance rate of 53.9%. <br>
 
 - Likes: 639
 - Dislikes: 278

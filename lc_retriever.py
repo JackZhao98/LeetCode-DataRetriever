@@ -150,7 +150,7 @@ class LCDownloader(LCDataRetriever):
 
 %(small_tags)s
 
-[Magic Portal](%(URL)s)
+:+1: %(likes)s &nbsp; &nbsp; :thumbsdown: %(dislikes)s
 
 ## My Submission
 
@@ -187,7 +187,7 @@ Among **%(submission)s** total submissions, **%(accepted)s** are accepted, with 
         tags = []
         for tag in question_info['topicTags']:
             tags.append(tag_template % {
-                "tag" : tag['name'],
+                "tag" : tag['name'].strip(),
                 "URL" : base_url % question_info['titleSlug'],
                 "color" : "green"
             })

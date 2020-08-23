@@ -2,7 +2,7 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/find-all-duplicates-in-an-array/) 
 
-[Magic Portal](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+:+1: 2644 &nbsp; &nbsp; :thumbsdown: 159
 
 ## My Submission
 
@@ -44,7 +44,7 @@ class Solution:
 [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) (Easy) <br>
 
 ## What a(n) Medium problem!
-Among **321821** total submissions, **218225** are accepted, with an acceptance rate of 67.8%. <br>
+Among **321827** total submissions, **218231** are accepted, with an acceptance rate of 67.8%. <br>
 
 - Likes: 2644
 - Dislikes: 159

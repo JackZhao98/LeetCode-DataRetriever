@@ -2,7 +2,7 @@
 
 [![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/single-number/)  [![Bit Manipulation_badge](https://img.shields.io/badge/topic-Bit Manipulation-green.svg)](https://leetcode.com/problems/single-number/) 
 
-[Magic Portal](https://leetcode.com/problems/single-number/)
+:+1: 4751 &nbsp; &nbsp; :thumbsdown: 167
 
 ## My Submission
 
@@ -51,7 +51,7 @@ class Solution:
 [Find the Difference](https://leetcode.com/problems/find-the-difference/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1414856** total submissions, **927759** are accepted, with an acceptance rate of 65.6%. <br>
+Among **1414874** total submissions, **927773** are accepted, with an acceptance rate of 65.6%. <br>
 
 - Likes: 4751
 - Dislikes: 167

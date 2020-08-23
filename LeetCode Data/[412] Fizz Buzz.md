@@ -2,7 +2,7 @@
 
 
 
-[Magic Portal](https://leetcode.com/problems/fizz-buzz/)
+:+1: 938 &nbsp; &nbsp; :thumbsdown: 1236
 
 ## My Submission
 
@@ -59,7 +59,7 @@ Return:
 [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **565625** total submissions, **352600** are accepted, with an acceptance rate of 62.3%. <br>
+Among **565635** total submissions, **352605** are accepted, with an acceptance rate of 62.3%. <br>
 
 - Likes: 938
 - Dislikes: 1236

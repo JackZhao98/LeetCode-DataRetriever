@@ -2,7 +2,7 @@
 
 [![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/valid-anagram/)  [![Sort_badge](https://img.shields.io/badge/topic-Sort-green.svg)](https://leetcode.com/problems/valid-anagram/) 
 
-[Magic Portal](https://leetcode.com/problems/valid-anagram/)
+:+1: 1690 &nbsp; &nbsp; :thumbsdown: 145
 
 ## My Submission
 
@@ -52,7 +52,7 @@ What if the inputs contain unicode characters? How would you adapt your solution
 [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **1060315** total submissions, **603949** are accepted, with an acceptance rate of 57.0%. <br>
+Among **1060344** total submissions, **603967** are accepted, with an acceptance rate of 57.0%. <br>
 
 - Likes: 1690
 - Dislikes: 145

@@ -2,7 +2,7 @@
 
 [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/to-lower-case/) 
 
-[Magic Portal](https://leetcode.com/problems/to-lower-case/)
+:+1: 510 &nbsp; &nbsp; :thumbsdown: 1607
 
 ## My Submission
 
@@ -68,7 +68,7 @@ public:
 
 
 ## What a(n) Easy problem!
-Among **275752** total submissions, **218863** are accepted, with an acceptance rate of 79.4%. <br>
+Among **275756** total submissions, **218867** are accepted, with an acceptance rate of 79.4%. <br>
 
 - Likes: 510
 - Dislikes: 1607

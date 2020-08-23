@@ -2,7 +2,7 @@
 
 [![Backtracking_badge](https://img.shields.io/badge/topic-Backtracking-green.svg)](https://leetcode.com/problems/n-queens/) 
 
-[Magic Portal](https://leetcode.com/problems/n-queens/)
+:+1: 2057 &nbsp; &nbsp; :thumbsdown: 77
 
 ## My Submission
 
@@ -98,7 +98,7 @@ public:
 [Grid Illumination](https://leetcode.com/problems/grid-illumination/) (Hard) <br>
 
 ## What a(n) Hard problem!
-Among **448221** total submissions, **209970** are accepted, with an acceptance rate of 46.8%. <br>
+Among **448223** total submissions, **209972** are accepted, with an acceptance rate of 46.8%. <br>
 
 - Likes: 2057
 - Dislikes: 77

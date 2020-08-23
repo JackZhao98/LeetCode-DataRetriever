@@ -2,7 +2,7 @@
 
 [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/zigzag-conversion/) 
 
-[Magic Portal](https://leetcode.com/problems/zigzag-conversion/)
+:+1: 1783 &nbsp; &nbsp; :thumbsdown: 4800
 
 ## My Submission
 
@@ -81,7 +81,7 @@ P     I</pre>
 
 
 ## What a(n) Medium problem!
-Among **1312317** total submissions, **478096** are accepted, with an acceptance rate of 36.4%. <br>
+Among **1312337** total submissions, **478109** are accepted, with an acceptance rate of 36.4%. <br>
 
 - Likes: 1783
 - Dislikes: 4800

@@ -2,7 +2,7 @@
 
 [![Bit Manipulation_badge](https://img.shields.io/badge/topic-Bit Manipulation-green.svg)](https://leetcode.com/problems/power-of-four/) 
 
-[Magic Portal](https://leetcode.com/problems/power-of-four/)
+:+1: 679 &nbsp; &nbsp; :thumbsdown: 235
 
 ## My Submission
 
@@ -50,7 +50,7 @@ public:
 [Power of Three](https://leetcode.com/problems/power-of-three/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **487498** total submissions, **202105** are accepted, with an acceptance rate of 41.5%. <br>
+Among **487523** total submissions, **202110** are accepted, with an acceptance rate of 41.5%. <br>
 
 - Likes: 679
 - Dislikes: 235

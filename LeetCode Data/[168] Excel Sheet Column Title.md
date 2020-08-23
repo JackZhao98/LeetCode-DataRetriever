@@ -2,7 +2,7 @@
 
 [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/excel-sheet-column-title/) 
 
-[Magic Portal](https://leetcode.com/problems/excel-sheet-column-title/)
+:+1: 1297 &nbsp; &nbsp; :thumbsdown: 257
 
 ## My Submission
 
@@ -64,7 +64,7 @@ class Solution:
 [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **721348** total submissions, **224536** are accepted, with an acceptance rate of 31.1%. <br>
+Among **721351** total submissions, **224538** are accepted, with an acceptance rate of 31.1%. <br>
 
 - Likes: 1297
 - Dislikes: 257

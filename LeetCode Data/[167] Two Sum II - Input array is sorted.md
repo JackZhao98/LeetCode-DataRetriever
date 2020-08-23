@@ -2,7 +2,7 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  [![Two Pointers_badge](https://img.shields.io/badge/topic-Two Pointers-green.svg)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  [![Binary Search_badge](https://img.shields.io/badge/topic-Binary Search-green.svg)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 
 
-[Magic Portal](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+:+1: 1781 &nbsp; &nbsp; :thumbsdown: 628
 
 ## My Submission
 
@@ -47,7 +47,7 @@ class Solution:
 [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **801916** total submissions, **434559** are accepted, with an acceptance rate of 54.2%. <br>
+Among **801941** total submissions, **434574** are accepted, with an acceptance rate of 54.2%. <br>
 
 - Likes: 1781
 - Dislikes: 628

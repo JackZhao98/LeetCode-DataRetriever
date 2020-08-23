@@ -2,7 +2,7 @@
 
 [![Linked List_badge](https://img.shields.io/badge/topic-Linked List-green.svg)](https://leetcode.com/problems/add-two-numbers/)  [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/add-two-numbers/) 
 
-[Magic Portal](https://leetcode.com/problems/add-two-numbers/)
+:+1: 8899 &nbsp; &nbsp; :thumbsdown: 2246
 
 ## My Submission
 
@@ -96,7 +96,7 @@ public:
 [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) (Easy) <br>
 
 ## What a(n) Medium problem!
-Among **4412339** total submissions, **1498629** are accepted, with an acceptance rate of 34.0%. <br>
+Among **4412415** total submissions, **1498661** are accepted, with an acceptance rate of 34.0%. <br>
 
 - Likes: 8899
 - Dislikes: 2246

@@ -2,7 +2,7 @@
 
 [![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  [![Two Pointers_badge](https://img.shields.io/badge/topic-Two Pointers-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  [![Binary Search_badge](https://img.shields.io/badge/topic-Binary Search-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  [![Sort_badge](https://img.shields.io/badge/topic-Sort-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/) 
 
-[Magic Portal](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+:+1: 1501 &nbsp; &nbsp; :thumbsdown: 428
 
 ## My Submission
 
@@ -59,7 +59,7 @@ class Solution:
 [Find Common Characters](https://leetcode.com/problems/find-common-characters/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **733385** total submissions, **377142** are accepted, with an acceptance rate of 51.4%. <br>
+Among **733395** total submissions, **377148** are accepted, with an acceptance rate of 51.4%. <br>
 
 - Likes: 1501
 - Dislikes: 428

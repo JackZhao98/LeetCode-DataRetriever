@@ -2,7 +2,7 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/flipping-an-image/) 
 
-[Magic Portal](https://leetcode.com/problems/flipping-an-image/)
+:+1: 933 &nbsp; &nbsp; :thumbsdown: 150
 
 ## My Submission
 
@@ -92,7 +92,7 @@ Then invert the image: [[1,1,0,0],[0,1,1,0],[0,0,0,1],[1,0,1,0]]
 
 
 ## What a(n) Easy problem!
-Among **234152** total submissions, **178707** are accepted, with an acceptance rate of 76.3%. <br>
+Among **234162** total submissions, **178715** are accepted, with an acceptance rate of 76.3%. <br>
 
 - Likes: 933
 - Dislikes: 150

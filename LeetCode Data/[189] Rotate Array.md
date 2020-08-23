@@ -2,7 +2,7 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/rotate-array/) 
 
-[Magic Portal](https://leetcode.com/problems/rotate-array/)
+:+1: 3072 &nbsp; &nbsp; :thumbsdown: 838
 
 ## My Submission
 
@@ -67,7 +67,7 @@ rotate 2 steps to the right: [3,99,-1,-100]
 [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **1497964** total submissions, **521910** are accepted, with an acceptance rate of 34.8%. <br>
+Among **1497997** total submissions, **521921** are accepted, with an acceptance rate of 34.8%. <br>
 
 - Likes: 3072
 - Dislikes: 838

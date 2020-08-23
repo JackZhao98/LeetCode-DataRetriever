@@ -2,7 +2,7 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/pascals-triangle-ii/) 
 
-[Magic Portal](https://leetcode.com/problems/pascals-triangle-ii/)
+:+1: 1017 &nbsp; &nbsp; :thumbsdown: 201
 
 ## My Submission
 
@@ -53,7 +53,7 @@ class Solution:
 [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **632059** total submissions, **320325** are accepted, with an acceptance rate of 50.7%. <br>
+Among **632065** total submissions, **320330** are accepted, with an acceptance rate of 50.7%. <br>
 
 - Likes: 1017
 - Dislikes: 201

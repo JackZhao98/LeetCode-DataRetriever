@@ -2,7 +2,7 @@
 
 [![Greedy_badge](https://img.shields.io/badge/topic-Greedy-green.svg)](https://leetcode.com/problems/non-overlapping-intervals/) 
 
-[Magic Portal](https://leetcode.com/problems/non-overlapping-intervals/)
+:+1: 1424 &nbsp; &nbsp; :thumbsdown: 43
 
 ## My Submission
 
@@ -72,7 +72,7 @@ class Solution:
 [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) (Medium) <br>
 
 ## What a(n) Medium problem!
-Among **236217** total submissions, **102680** are accepted, with an acceptance rate of 43.5%. <br>
+Among **236220** total submissions, **102682** are accepted, with an acceptance rate of 43.5%. <br>
 
 - Likes: 1424
 - Dislikes: 43

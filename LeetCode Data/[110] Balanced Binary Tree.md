@@ -2,7 +2,7 @@
 
 [![Tree_badge](https://img.shields.io/badge/topic-Tree-green.svg)](https://leetcode.com/problems/balanced-binary-tree/)  [![Depth-first Search_badge](https://img.shields.io/badge/topic-Depth-first Search-green.svg)](https://leetcode.com/problems/balanced-binary-tree/) 
 
-[Magic Portal](https://leetcode.com/problems/balanced-binary-tree/)
+:+1: 2444 &nbsp; &nbsp; :thumbsdown: 178
 
 ## My Submission
 
@@ -79,7 +79,7 @@ class Solution:
 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1067409** total submissions, **465427** are accepted, with an acceptance rate of 43.6%. <br>
+Among **1067411** total submissions, **465428** are accepted, with an acceptance rate of 43.6%. <br>
 
 - Likes: 2444
 - Dislikes: 178

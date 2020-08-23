@@ -2,7 +2,7 @@
 
 [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/goat-latin/) 
 
-[Magic Portal](https://leetcode.com/problems/goat-latin/)
+:+1: 407 &nbsp; &nbsp; :thumbsdown: 802
 
 ## My Submission
 
@@ -74,7 +74,7 @@ class Solution:
 
 
 ## What a(n) Easy problem!
-Among **145415** total submissions, **95762** are accepted, with an acceptance rate of 65.9%. <br>
+Among **145419** total submissions, **95766** are accepted, with an acceptance rate of 65.9%. <br>
 
 - Likes: 407
 - Dislikes: 802

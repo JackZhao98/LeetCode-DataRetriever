@@ -2,7 +2,7 @@
 
 [![Linked List_badge](https://img.shields.io/badge/topic-Linked List-green.svg)](https://leetcode.com/problems/reorder-list/) 
 
-[Magic Portal](https://leetcode.com/problems/reorder-list/)
+:+1: 2335 &nbsp; &nbsp; :thumbsdown: 125
 
 ## My Submission
 
@@ -71,7 +71,7 @@ Given 1-&gt;2-&gt;3-&gt;4-&gt;5, reorder it to 1-&gt;5-&gt;2-&gt;4-&gt;3.
 
 
 ## What a(n) Medium problem!
-Among **687680** total submissions, **266511** are accepted, with an acceptance rate of 38.8%. <br>
+Among **687716** total submissions, **266538** are accepted, with an acceptance rate of 38.8%. <br>
 
 - Likes: 2335
 - Dislikes: 125

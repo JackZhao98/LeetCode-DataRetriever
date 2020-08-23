@@ -2,7 +2,7 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/move-zeroes/)  [![Two Pointers_badge](https://img.shields.io/badge/topic-Two Pointers-green.svg)](https://leetcode.com/problems/move-zeroes/) 
 
-[Magic Portal](https://leetcode.com/problems/move-zeroes/)
+:+1: 4069 &nbsp; &nbsp; :thumbsdown: 129
 
 ## My Submission
 
@@ -46,7 +46,7 @@ class Solution:
 [Remove Element](https://leetcode.com/problems/remove-element/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1530517** total submissions, **886043** are accepted, with an acceptance rate of 57.9%. <br>
+Among **1530541** total submissions, **886058** are accepted, with an acceptance rate of 57.9%. <br>
 
 - Likes: 4069
 - Dislikes: 129

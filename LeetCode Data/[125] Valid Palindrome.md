@@ -2,7 +2,7 @@
 
 [![Two Pointers_badge](https://img.shields.io/badge/topic-Two Pointers-green.svg)](https://leetcode.com/problems/valid-palindrome/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/valid-palindrome/) 
 
-[Magic Portal](https://leetcode.com/problems/valid-palindrome/)
+:+1: 1355 &nbsp; &nbsp; :thumbsdown: 3089
 
 ## My Submission
 
@@ -60,7 +60,7 @@ class Solution:
 [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1797850** total submissions, **661528** are accepted, with an acceptance rate of 36.8%. <br>
+Among **1797883** total submissions, **661543** are accepted, with an acceptance rate of 36.8%. <br>
 
 - Likes: 1355
 - Dislikes: 3089

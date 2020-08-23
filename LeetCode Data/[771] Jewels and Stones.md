@@ -2,7 +2,7 @@
 
 [![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/jewels-and-stones/) 
 
-[Magic Portal](https://leetcode.com/problems/jewels-and-stones/)
+:+1: 2185 &nbsp; &nbsp; :thumbsdown: 372
 
 ## My Submission
 
@@ -62,7 +62,7 @@ public:
 
 
 ## What a(n) Easy problem!
-Among **616856** total submissions, **532979** are accepted, with an acceptance rate of 86.4%. <br>
+Among **616867** total submissions, **532990** are accepted, with an acceptance rate of 86.4%. <br>
 
 - Likes: 2185
 - Dislikes: 372

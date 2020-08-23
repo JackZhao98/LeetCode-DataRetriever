@@ -2,7 +2,7 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/sort-array-by-parity/) 
 
-[Magic Portal](https://leetcode.com/problems/sort-array-by-parity/)
+:+1: 1206 &nbsp; &nbsp; :thumbsdown: 77
 
 ## My Submission
 
@@ -58,7 +58,7 @@ The outputs [4,2,3,1], [2,4,1,3], and [4,2,1,3] would also be accepted.
 
 
 ## What a(n) Easy problem!
-Among **323584** total submissions, **242434** are accepted, with an acceptance rate of 74.9%. <br>
+Among **323600** total submissions, **242447** are accepted, with an acceptance rate of 74.9%. <br>
 
 - Likes: 1206
 - Dislikes: 77

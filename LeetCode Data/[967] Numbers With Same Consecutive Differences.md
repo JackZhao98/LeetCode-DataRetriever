@@ -2,7 +2,7 @@
 
 [![Dynamic Programming_badge](https://img.shields.io/badge/topic-Dynamic Programming-green.svg)](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) 
 
-[Magic Portal](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
+:+1: 480 &nbsp; &nbsp; :thumbsdown: 106
 
 ## My Submission
 
@@ -81,7 +81,7 @@ class Solution:
 
 
 ## What a(n) Medium problem!
-Among **84764** total submissions, **37033** are accepted, with an acceptance rate of 43.7%. <br>
+Among **84770** total submissions, **37034** are accepted, with an acceptance rate of 43.7%. <br>
 
 - Likes: 480
 - Dislikes: 106

@@ -2,7 +2,7 @@
 
 [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/defanging-an-ip-address/) 
 
-[Magic Portal](https://leetcode.com/problems/defanging-an-ip-address/)
+:+1: 437 &nbsp; &nbsp; :thumbsdown: 876
 
 ## My Submission
 
@@ -58,7 +58,7 @@ public:
 
 
 ## What a(n) Easy problem!
-Among **244207** total submissions, **214090** are accepted, with an acceptance rate of 87.7%. <br>
+Among **244216** total submissions, **214099** are accepted, with an acceptance rate of 87.7%. <br>
 
 - Likes: 437
 - Dislikes: 876

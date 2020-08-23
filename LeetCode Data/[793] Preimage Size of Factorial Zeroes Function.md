@@ -2,7 +2,7 @@
 
 [![Binary Search_badge](https://img.shields.io/badge/topic-Binary Search-green.svg)](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) 
 
-[Magic Portal](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/)
+:+1: 175 &nbsp; &nbsp; :thumbsdown: 55
 
 ## My Submission
 
@@ -52,7 +52,7 @@ public:
 [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) (Easy) <br>
 
 ## What a(n) Hard problem!
-Among **20318** total submissions, **8180** are accepted, with an acceptance rate of 40.3%. <br>
+Among **20324** total submissions, **8181** are accepted, with an acceptance rate of 40.3%. <br>
 
 - Likes: 175
 - Dislikes: 55

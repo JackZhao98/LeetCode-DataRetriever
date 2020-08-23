@@ -2,7 +2,7 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/three-consecutive-odds/) 
 
-[Magic Portal](https://leetcode.com/problems/three-consecutive-odds/)
+:+1: 69 &nbsp; &nbsp; :thumbsdown: 12
 
 ## My Submission
 
@@ -55,7 +55,7 @@ Given an integer array <code>arr</code>, return <code>true</code>&nbsp;if there 
 
 
 ## What a(n) Easy problem!
-Among **21007** total submissions, **14223** are accepted, with an acceptance rate of 67.7%. <br>
+Among **21018** total submissions, **14229** are accepted, with an acceptance rate of 67.7%. <br>
 
 - Likes: 69
 - Dislikes: 12

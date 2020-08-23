@@ -2,7 +2,7 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/two-sum/)  [![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/two-sum/) 
 
-[Magic Portal](https://leetcode.com/problems/two-sum/)
+:+1: 16378 &nbsp; &nbsp; :thumbsdown: 590
 
 ## My Submission
 
@@ -55,8 +55,8 @@ return [<strong>0</strong>, <strong>1</strong>].
 [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **7034692** total submissions, **3211377** are accepted, with an acceptance rate of 45.7%. <br>
+Among **7034883** total submissions, **3211483** are accepted, with an acceptance rate of 45.7%. <br>
 
-- Likes: 16375
+- Likes: 16378
 - Dislikes: 590
 

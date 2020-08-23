@@ -2,7 +2,7 @@
 
 [![Linked List_badge](https://img.shields.io/badge/topic-Linked List-green.svg)](https://leetcode.com/problems/palindrome-linked-list/)  [![Two Pointers_badge](https://img.shields.io/badge/topic-Two Pointers-green.svg)](https://leetcode.com/problems/palindrome-linked-list/) 
 
-[Magic Portal](https://leetcode.com/problems/palindrome-linked-list/)
+:+1: 3472 &nbsp; &nbsp; :thumbsdown: 375
 
 ## My Submission
 
@@ -85,7 +85,7 @@ Could you do it in O(n) time and O(1) space?</p>
 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1148742** total submissions, **452209** are accepted, with an acceptance rate of 39.4%. <br>
+Among **1148772** total submissions, **452223** are accepted, with an acceptance rate of 39.4%. <br>
 
 - Likes: 3472
 - Dislikes: 375

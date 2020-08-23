@@ -2,7 +2,7 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/missing-number/)  [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/missing-number/)  [![Bit Manipulation_badge](https://img.shields.io/badge/topic-Bit Manipulation-green.svg)](https://leetcode.com/problems/missing-number/) 
 
-[Magic Portal](https://leetcode.com/problems/missing-number/)
+:+1: 1928 &nbsp; &nbsp; :thumbsdown: 2214
 
 ## My Submission
 
@@ -55,7 +55,7 @@ Your algorithm should run in linear runtime complexity. Could you implement it u
 [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) (Hard) <br>
 
 ## What a(n) Easy problem!
-Among **933059** total submissions, **483460** are accepted, with an acceptance rate of 51.8%. <br>
+Among **933088** total submissions, **483475** are accepted, with an acceptance rate of 51.8%. <br>
 
 - Likes: 1928
 - Dislikes: 2214

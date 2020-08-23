@@ -2,7 +2,7 @@
 
 [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  [![Backtracking_badge](https://img.shields.io/badge/topic-Backtracking-green.svg)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) 
 
-[Magic Portal](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+:+1: 4203 &nbsp; &nbsp; :thumbsdown: 431
 
 ## My Submission
 
@@ -60,7 +60,7 @@ class Solution:
 [Binary Watch](https://leetcode.com/problems/binary-watch/) (Easy) <br>
 
 ## What a(n) Medium problem!
-Among **1364834** total submissions, **640760** are accepted, with an acceptance rate of 46.9%. <br>
+Among **1364846** total submissions, **640771** are accepted, with an acceptance rate of 46.9%. <br>
 
 - Likes: 4203
 - Dislikes: 431

@@ -2,7 +2,7 @@
 
 [![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/first-unique-character-in-a-string/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/first-unique-character-in-a-string/) 
 
-[Magic Portal](https://leetcode.com/problems/first-unique-character-in-a-string/)
+:+1: 2076 &nbsp; &nbsp; :thumbsdown: 117
 
 ## My Submission
 
@@ -48,7 +48,7 @@ return 2.
 [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **1064617** total submissions, **568508** are accepted, with an acceptance rate of 53.4%. <br>
+Among **1064638** total submissions, **568522** are accepted, with an acceptance rate of 53.4%. <br>
 
 - Likes: 2076
 - Dislikes: 117

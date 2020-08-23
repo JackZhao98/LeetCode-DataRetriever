@@ -2,7 +2,7 @@
 
 [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/longest-palindromic-substring/)  [![Dynamic Programming_badge](https://img.shields.io/badge/topic-Dynamic Programming-green.svg)](https://leetcode.com/problems/longest-palindromic-substring/) 
 
-[Magic Portal](https://leetcode.com/problems/longest-palindromic-substring/)
+:+1: 7594 &nbsp; &nbsp; :thumbsdown: 562
 
 ## My Submission
 
@@ -62,7 +62,7 @@ class Solution:
 [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) (Medium) <br>
 
 ## What a(n) Medium problem!
-Among **3384677** total submissions, **998633** are accepted, with an acceptance rate of 29.5%. <br>
+Among **3384760** total submissions, **998662** are accepted, with an acceptance rate of 29.5%. <br>
 
 - Likes: 7594
 - Dislikes: 562

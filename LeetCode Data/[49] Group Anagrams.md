@@ -2,7 +2,7 @@
 
 [![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/group-anagrams/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/group-anagrams/) 
 
-[Magic Portal](https://leetcode.com/problems/group-anagrams/)
+:+1: 3851 &nbsp; &nbsp; :thumbsdown: 194
 
 ## My Submission
 
@@ -49,8 +49,8 @@ class Solution:
 [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) (Medium) <br>
 
 ## What a(n) Medium problem!
-Among **1267659** total submissions, **723204** are accepted, with an acceptance rate of 57.1%. <br>
+Among **1267690** total submissions, **723229** are accepted, with an acceptance rate of 57.1%. <br>
 
-- Likes: 3850
+- Likes: 3851
 - Dislikes: 194
 
