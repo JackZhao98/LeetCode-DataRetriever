@@ -1,6 +1,6 @@
 # [121] Best Time to Buy and Sell Stock (Easy)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  [![Dynamic Programming_badge](https://img.shields.io/badge/topic-Dynamic Programming-green.svg)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  [![DynamicProgramming_badge](https://img.shields.io/badge/topic-DynamicProgramming-green.svg)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
 
 :+1: 5692 &nbsp; &nbsp; :thumbsdown: 247
 

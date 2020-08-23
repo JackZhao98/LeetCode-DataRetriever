@@ -1,6 +1,6 @@
 # [167] Two Sum II - Input array is sorted (Easy)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  [![Two Pointers_badge](https://img.shields.io/badge/topic-Two Pointers-green.svg)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  [![Binary Search_badge](https://img.shields.io/badge/topic-Binary Search-green.svg)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  [![TwoPointers_badge](https://img.shields.io/badge/topic-TwoPointers-green.svg)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  [![BinarySearch_badge](https://img.shields.io/badge/topic-BinarySearch-green.svg)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 
 
 :+1: 1781 &nbsp; &nbsp; :thumbsdown: 628
 

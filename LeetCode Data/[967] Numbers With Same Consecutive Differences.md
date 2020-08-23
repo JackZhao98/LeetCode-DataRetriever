@@ -1,6 +1,6 @@
 # [967] Numbers With Same Consecutive Differences (Medium)
 
-[![Dynamic Programming_badge](https://img.shields.io/badge/topic-Dynamic Programming-green.svg)](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) 
+[![DynamicProgramming_badge](https://img.shields.io/badge/topic-DynamicProgramming-green.svg)](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) 
 
 :+1: 480 &nbsp; &nbsp; :thumbsdown: 106
 

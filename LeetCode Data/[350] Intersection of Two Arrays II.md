@@ -1,6 +1,6 @@
 # [350] Intersection of Two Arrays II (Easy)
 
-[![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  [![Two Pointers_badge](https://img.shields.io/badge/topic-Two Pointers-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  [![Binary Search_badge](https://img.shields.io/badge/topic-Binary Search-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  [![Sort_badge](https://img.shields.io/badge/topic-Sort-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/) 
+[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  [![TwoPointers_badge](https://img.shields.io/badge/topic-TwoPointers-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  [![BinarySearch_badge](https://img.shields.io/badge/topic-BinarySearch-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  [![Sort_badge](https://img.shields.io/badge/topic-Sort-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/) 
 
 :+1: 1501 &nbsp; &nbsp; :thumbsdown: 428
 

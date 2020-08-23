@@ -1,6 +1,6 @@
 # [143] Reorder List (Medium)
 
-[![Linked List_badge](https://img.shields.io/badge/topic-Linked List-green.svg)](https://leetcode.com/problems/reorder-list/) 
+[![LinkedList_badge](https://img.shields.io/badge/topic-LinkedList-green.svg)](https://leetcode.com/problems/reorder-list/) 
 
 :+1: 2335 &nbsp; &nbsp; :thumbsdown: 125
 

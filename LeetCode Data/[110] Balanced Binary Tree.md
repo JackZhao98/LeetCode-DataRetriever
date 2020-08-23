@@ -1,6 +1,6 @@
 # [110] Balanced Binary Tree (Easy)
 
-[![Tree_badge](https://img.shields.io/badge/topic-Tree-green.svg)](https://leetcode.com/problems/balanced-binary-tree/)  [![Depth-first Search_badge](https://img.shields.io/badge/topic-Depth-first Search-green.svg)](https://leetcode.com/problems/balanced-binary-tree/) 
+[![Tree_badge](https://img.shields.io/badge/topic-Tree-green.svg)](https://leetcode.com/problems/balanced-binary-tree/)  [![Depth-firstSearch_badge](https://img.shields.io/badge/topic-Depth-firstSearch-green.svg)](https://leetcode.com/problems/balanced-binary-tree/) 
 
 :+1: 2444 &nbsp; &nbsp; :thumbsdown: 178
 

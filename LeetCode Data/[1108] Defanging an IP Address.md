@@ -58,7 +58,7 @@ public:
 
 
 ## What a(n) Easy problem!
-Among **244216** total submissions, **214099** are accepted, with an acceptance rate of 87.7%. <br>
+Among **244224** total submissions, **214107** are accepted, with an acceptance rate of 87.7%. <br>
 
 - Likes: 437
 - Dislikes: 876

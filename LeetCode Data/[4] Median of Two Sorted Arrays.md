@@ -1,6 +1,6 @@
 # [4] Median of Two Sorted Arrays (Hard)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/median-of-two-sorted-arrays/)  [![Binary Search_badge](https://img.shields.io/badge/topic-Binary Search-green.svg)](https://leetcode.com/problems/median-of-two-sorted-arrays/)  [![Divide and Conquer_badge](https://img.shields.io/badge/topic-Divide and Conquer-green.svg)](https://leetcode.com/problems/median-of-two-sorted-arrays/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/median-of-two-sorted-arrays/)  [![BinarySearch_badge](https://img.shields.io/badge/topic-BinarySearch-green.svg)](https://leetcode.com/problems/median-of-two-sorted-arrays/)  [![DivideandConquer_badge](https://img.shields.io/badge/topic-DivideandConquer-green.svg)](https://leetcode.com/problems/median-of-two-sorted-arrays/) 
 
 :+1: 7611 &nbsp; &nbsp; :thumbsdown: 1201
 

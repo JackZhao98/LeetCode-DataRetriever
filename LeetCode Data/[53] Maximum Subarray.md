@@ -1,6 +1,6 @@
 # [53] Maximum Subarray (Easy)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/maximum-subarray/)  [![Divide and Conquer_badge](https://img.shields.io/badge/topic-Divide and Conquer-green.svg)](https://leetcode.com/problems/maximum-subarray/)  [![Dynamic Programming_badge](https://img.shields.io/badge/topic-Dynamic Programming-green.svg)](https://leetcode.com/problems/maximum-subarray/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/maximum-subarray/)  [![DivideandConquer_badge](https://img.shields.io/badge/topic-DivideandConquer-green.svg)](https://leetcode.com/problems/maximum-subarray/)  [![DynamicProgramming_badge](https://img.shields.io/badge/topic-DynamicProgramming-green.svg)](https://leetcode.com/problems/maximum-subarray/) 
 
 :+1: 8568 &nbsp; &nbsp; :thumbsdown: 404
 
@@ -56,7 +56,7 @@ class Solution:
 [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **2338939** total submissions, **1090248** are accepted, with an acceptance rate of 46.6%. <br>
+Among **2338975** total submissions, **1090265** are accepted, with an acceptance rate of 46.6%. <br>
 
 - Likes: 8568
 - Dislikes: 404

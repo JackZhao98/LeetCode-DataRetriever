@@ -1,6 +1,6 @@
 # [5] Longest Palindromic Substring (Medium)
 
-[![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/longest-palindromic-substring/)  [![Dynamic Programming_badge](https://img.shields.io/badge/topic-Dynamic Programming-green.svg)](https://leetcode.com/problems/longest-palindromic-substring/) 
+[![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/longest-palindromic-substring/)  [![DynamicProgramming_badge](https://img.shields.io/badge/topic-DynamicProgramming-green.svg)](https://leetcode.com/problems/longest-palindromic-substring/) 
 
 :+1: 7594 &nbsp; &nbsp; :thumbsdown: 562
 

@@ -1,6 +1,6 @@
 # [191] Number of 1 Bits (Easy)
 
-[![Bit Manipulation_badge](https://img.shields.io/badge/topic-Bit Manipulation-green.svg)](https://leetcode.com/problems/number-of-1-bits/) 
+[![BitManipulation_badge](https://img.shields.io/badge/topic-BitManipulation-green.svg)](https://leetcode.com/problems/number-of-1-bits/) 
 
 :+1: 943 &nbsp; &nbsp; :thumbsdown: 536
 

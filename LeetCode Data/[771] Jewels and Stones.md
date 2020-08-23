@@ -1,6 +1,6 @@
 # [771] Jewels and Stones (Easy)
 
-[![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/jewels-and-stones/) 
+[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/jewels-and-stones/) 
 
 :+1: 2185 &nbsp; &nbsp; :thumbsdown: 372
 

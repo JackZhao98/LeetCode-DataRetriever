@@ -1,6 +1,6 @@
 # [793] Preimage Size of Factorial Zeroes Function (Hard)
 
-[![Binary Search_badge](https://img.shields.io/badge/topic-Binary Search-green.svg)](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) 
+[![BinarySearch_badge](https://img.shields.io/badge/topic-BinarySearch-green.svg)](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) 
 
 :+1: 175 &nbsp; &nbsp; :thumbsdown: 55
 

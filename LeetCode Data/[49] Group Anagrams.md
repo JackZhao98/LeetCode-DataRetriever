@@ -1,6 +1,6 @@
 # [49] Group Anagrams (Medium)
 
-[![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/group-anagrams/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/group-anagrams/) 
+[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/group-anagrams/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/group-anagrams/) 
 
 :+1: 3851 &nbsp; &nbsp; :thumbsdown: 194
 

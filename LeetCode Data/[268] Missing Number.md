@@ -1,6 +1,6 @@
 # [268] Missing Number (Easy)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/missing-number/)  [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/missing-number/)  [![Bit Manipulation_badge](https://img.shields.io/badge/topic-Bit Manipulation-green.svg)](https://leetcode.com/problems/missing-number/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/missing-number/)  [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/missing-number/)  [![BitManipulation_badge](https://img.shields.io/badge/topic-BitManipulation-green.svg)](https://leetcode.com/problems/missing-number/) 
 
 :+1: 1928 &nbsp; &nbsp; :thumbsdown: 2214
 

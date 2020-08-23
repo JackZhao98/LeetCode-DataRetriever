@@ -92,7 +92,7 @@ Then invert the image: [[1,1,0,0],[0,1,1,0],[0,0,0,1],[1,0,1,0]]
 
 
 ## What a(n) Easy problem!
-Among **234162** total submissions, **178715** are accepted, with an acceptance rate of 76.3%. <br>
+Among **234166** total submissions, **178719** are accepted, with an acceptance rate of 76.3%. <br>
 
 - Likes: 933
 - Dislikes: 150

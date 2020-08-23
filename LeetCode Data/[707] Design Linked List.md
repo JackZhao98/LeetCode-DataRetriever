@@ -1,6 +1,6 @@
 # [707] Design Linked List (Medium)
 
-[![Linked List_badge](https://img.shields.io/badge/topic-Linked List-green.svg)](https://leetcode.com/problems/design-linked-list/)  [![Design_badge](https://img.shields.io/badge/topic-Design-green.svg)](https://leetcode.com/problems/design-linked-list/) 
+[![LinkedList_badge](https://img.shields.io/badge/topic-LinkedList-green.svg)](https://leetcode.com/problems/design-linked-list/)  [![Design_badge](https://img.shields.io/badge/topic-Design-green.svg)](https://leetcode.com/problems/design-linked-list/) 
 
 :+1: 600 &nbsp; &nbsp; :thumbsdown: 722
 

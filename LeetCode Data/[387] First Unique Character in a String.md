@@ -1,6 +1,6 @@
 # [387] First Unique Character in a String (Easy)
 
-[![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/first-unique-character-in-a-string/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/first-unique-character-in-a-string/) 
+[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/first-unique-character-in-a-string/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/first-unique-character-in-a-string/) 
 
 :+1: 2076 &nbsp; &nbsp; :thumbsdown: 117
 

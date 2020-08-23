@@ -187,7 +187,7 @@ Among **%(submission)s** total submissions, **%(accepted)s** are accepted, with 
         tags = []
         for tag in question_info['topicTags']:
             tags.append(tag_template % {
-                "tag" : tag['name'].strip(),
+                "tag" : tag['name'].replace(' ', ''),
                 "URL" : base_url % question_info['titleSlug'],
                 "color" : "green"
             })

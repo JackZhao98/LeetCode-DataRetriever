@@ -1,6 +1,6 @@
 # [217] Contains Duplicate (Easy)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/contains-duplicate/)  [![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/contains-duplicate/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/contains-duplicate/)  [![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/contains-duplicate/) 
 
 :+1: 970 &nbsp; &nbsp; :thumbsdown: 758
 

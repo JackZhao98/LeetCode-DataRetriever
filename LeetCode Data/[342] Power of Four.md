@@ -1,6 +1,6 @@
 # [342] Power of Four (Easy)
 
-[![Bit Manipulation_badge](https://img.shields.io/badge/topic-Bit Manipulation-green.svg)](https://leetcode.com/problems/power-of-four/) 
+[![BitManipulation_badge](https://img.shields.io/badge/topic-BitManipulation-green.svg)](https://leetcode.com/problems/power-of-four/) 
 
 :+1: 679 &nbsp; &nbsp; :thumbsdown: 235
 

@@ -1,6 +1,6 @@
 # [136] Single Number (Easy)
 
-[![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/single-number/)  [![Bit Manipulation_badge](https://img.shields.io/badge/topic-Bit Manipulation-green.svg)](https://leetcode.com/problems/single-number/) 
+[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/single-number/)  [![BitManipulation_badge](https://img.shields.io/badge/topic-BitManipulation-green.svg)](https://leetcode.com/problems/single-number/) 
 
 :+1: 4751 &nbsp; &nbsp; :thumbsdown: 167
 

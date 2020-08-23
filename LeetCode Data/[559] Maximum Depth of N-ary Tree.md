@@ -1,6 +1,6 @@
 # [559] Maximum Depth of N-ary Tree (Easy)
 
-[![Tree_badge](https://img.shields.io/badge/topic-Tree-green.svg)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)  [![Depth-first Search_badge](https://img.shields.io/badge/topic-Depth-first Search-green.svg)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)  [![Breadth-first Search_badge](https://img.shields.io/badge/topic-Breadth-first Search-green.svg)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) 
+[![Tree_badge](https://img.shields.io/badge/topic-Tree-green.svg)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)  [![Depth-firstSearch_badge](https://img.shields.io/badge/topic-Depth-firstSearch-green.svg)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)  [![Breadth-firstSearch_badge](https://img.shields.io/badge/topic-Breadth-firstSearch-green.svg)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) 
 
 :+1: 916 &nbsp; &nbsp; :thumbsdown: 50
 
@@ -79,7 +79,7 @@ public:
 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **174535** total submissions, **119945** are accepted, with an acceptance rate of 68.7%. <br>
+Among **174536** total submissions, **119946** are accepted, with an acceptance rate of 68.7%. <br>
 
 - Likes: 916
 - Dislikes: 50

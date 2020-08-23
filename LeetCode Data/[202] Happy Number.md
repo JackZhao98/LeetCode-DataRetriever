@@ -1,6 +1,6 @@
 # [202] Happy Number (Easy)
 
-[![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/happy-number/)  [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/happy-number/) 
+[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/happy-number/)  [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/happy-number/) 
 
 :+1: 2307 &nbsp; &nbsp; :thumbsdown: 442
 

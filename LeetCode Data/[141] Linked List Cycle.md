@@ -1,6 +1,6 @@
 # [141] Linked List Cycle (Easy)
 
-[![Linked List_badge](https://img.shields.io/badge/topic-Linked List-green.svg)](https://leetcode.com/problems/linked-list-cycle/)  [![Two Pointers_badge](https://img.shields.io/badge/topic-Two Pointers-green.svg)](https://leetcode.com/problems/linked-list-cycle/) 
+[![LinkedList_badge](https://img.shields.io/badge/topic-LinkedList-green.svg)](https://leetcode.com/problems/linked-list-cycle/)  [![TwoPointers_badge](https://img.shields.io/badge/topic-TwoPointers-green.svg)](https://leetcode.com/problems/linked-list-cycle/) 
 
 :+1: 3131 &nbsp; &nbsp; :thumbsdown: 524
 

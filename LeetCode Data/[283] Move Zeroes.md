@@ -1,6 +1,6 @@
 # [283] Move Zeroes (Easy)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/move-zeroes/)  [![Two Pointers_badge](https://img.shields.io/badge/topic-Two Pointers-green.svg)](https://leetcode.com/problems/move-zeroes/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/move-zeroes/)  [![TwoPointers_badge](https://img.shields.io/badge/topic-TwoPointers-green.svg)](https://leetcode.com/problems/move-zeroes/) 
 
 :+1: 4069 &nbsp; &nbsp; :thumbsdown: 129
 

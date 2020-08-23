@@ -1,6 +1,6 @@
 # [234] Palindrome Linked List (Easy)
 
-[![Linked List_badge](https://img.shields.io/badge/topic-Linked List-green.svg)](https://leetcode.com/problems/palindrome-linked-list/)  [![Two Pointers_badge](https://img.shields.io/badge/topic-Two Pointers-green.svg)](https://leetcode.com/problems/palindrome-linked-list/) 
+[![LinkedList_badge](https://img.shields.io/badge/topic-LinkedList-green.svg)](https://leetcode.com/problems/palindrome-linked-list/)  [![TwoPointers_badge](https://img.shields.io/badge/topic-TwoPointers-green.svg)](https://leetcode.com/problems/palindrome-linked-list/) 
 
 :+1: 3472 &nbsp; &nbsp; :thumbsdown: 375
 

@@ -1,6 +1,6 @@
 # [160] Intersection of Two Linked Lists (Easy)
 
-[![Linked List_badge](https://img.shields.io/badge/topic-Linked List-green.svg)](https://leetcode.com/problems/intersection-of-two-linked-lists/) 
+[![LinkedList_badge](https://img.shields.io/badge/topic-LinkedList-green.svg)](https://leetcode.com/problems/intersection-of-two-linked-lists/) 
 
 :+1: 3909 &nbsp; &nbsp; :thumbsdown: 443
 

@@ -1,6 +1,6 @@
 # [125] Valid Palindrome (Easy)
 
-[![Two Pointers_badge](https://img.shields.io/badge/topic-Two Pointers-green.svg)](https://leetcode.com/problems/valid-palindrome/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/valid-palindrome/) 
+[![TwoPointers_badge](https://img.shields.io/badge/topic-TwoPointers-green.svg)](https://leetcode.com/problems/valid-palindrome/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/valid-palindrome/) 
 
 :+1: 1355 &nbsp; &nbsp; :thumbsdown: 3089
 

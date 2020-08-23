@@ -1,6 +1,6 @@
 # [169] Majority Element (Easy)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/majority-element/)  [![Divide and Conquer_badge](https://img.shields.io/badge/topic-Divide and Conquer-green.svg)](https://leetcode.com/problems/majority-element/)  [![Bit Manipulation_badge](https://img.shields.io/badge/topic-Bit Manipulation-green.svg)](https://leetcode.com/problems/majority-element/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/majority-element/)  [![DivideandConquer_badge](https://img.shields.io/badge/topic-DivideandConquer-green.svg)](https://leetcode.com/problems/majority-element/)  [![BitManipulation_badge](https://img.shields.io/badge/topic-BitManipulation-green.svg)](https://leetcode.com/problems/majority-element/) 
 
 :+1: 3453 &nbsp; &nbsp; :thumbsdown: 226
 

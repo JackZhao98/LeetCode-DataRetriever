@@ -1,6 +1,6 @@
 # [242] Valid Anagram (Easy)
 
-[![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/valid-anagram/)  [![Sort_badge](https://img.shields.io/badge/topic-Sort-green.svg)](https://leetcode.com/problems/valid-anagram/) 
+[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/valid-anagram/)  [![Sort_badge](https://img.shields.io/badge/topic-Sort-green.svg)](https://leetcode.com/problems/valid-anagram/) 
 
 :+1: 1690 &nbsp; &nbsp; :thumbsdown: 145
 

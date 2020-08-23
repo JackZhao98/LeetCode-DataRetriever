@@ -69,7 +69,7 @@ Assume we are dealing with an environment which could only store integers within
 [Reverse Bits](https://leetcode.com/problems/reverse-bits/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **4573539** total submissions, **1180479** are accepted, with an acceptance rate of 25.8%. <br>
+Among **4573625** total submissions, **1180499** are accepted, with an acceptance rate of 25.8%. <br>
 
 - Likes: 3590
 - Dislikes: 5639

@@ -1,6 +1,6 @@
 # [409] Longest Palindrome (Easy)
 
-[![Hash Table_badge](https://img.shields.io/badge/topic-Hash Table-green.svg)](https://leetcode.com/problems/longest-palindrome/) 
+[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/longest-palindrome/) 
 
 :+1: 1202 &nbsp; &nbsp; :thumbsdown: 89
 
