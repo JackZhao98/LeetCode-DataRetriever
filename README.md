@@ -1,31 +1,36 @@
 # LeetCode Data Retriever
 
-<br>
-
-<p>Doing LeetCode problems every day?</p>
+<p>Having done a lot of LeetCode problems but lost track?</p>
 <p>Trying to take notes in the mid-way but already far behind?</p>
 <p>This project will help you.</p>
+
+### Introducing the LCDownloader
+<p>A LeetCode submission data downloader that brings well-formatted, beautiful Markdown documents enriched with detailed problem contexts for each of your most recently accepted submissions.</p>
+
+- Likes/Dislikes
+- Topic tags
+- Your submission
+    - Code block of course
+    - Date and time of submission
+    - Runtime
+- Question contents
+- Related questions
+- Question stats
+    - Exact number of submissions and accepted
+
+## Just look at this [notebook](./LeetCode%20Retriever.ipynb)...
+> Everything you'll need is in there.
+
+## Example
+One of my note: [155. Min Stack](LeetCode%20Data/%5B155%5D%20Min%20Stack.md)
 
 ## Requirements
 - **Python3.***
 - **LeetCode Auth Cookie🍪** (None of your personal data will be collected)
 
-## Submission Download
-<p>Using your Cookie🍪, this script is able to collect all of your submission history with these information:</p>
+<br>
 
-- 'id' --> submission id
-- 'lang' --> language used
-- 'time' --> relative time of submission
-- 'timestamp' --> time of submission
-- 'status_display' --> submission status ('Accepted', 'Rejected', etc.)
-- 'runtime' --> submission runtime
-- 'is_pending' --> is pending?
-- 'title' --> problem title
-- 'memory' --> submission memory usage
-- 'code' --> your code
-- 'compare_result' --> a binary string where 1 represents "Correct" and 0 represents "Wrong"
-
-# Usage
+# Module Usage
 ## LCDataRetriever
 First, **initialize** the `LCDataRetriever(cookie = COOKIE)` object with your cookie. (This is a **required** parameter)
 
@@ -45,6 +50,19 @@ Values are returned as a list of dict.
 ```python3
 ld.retrieve_submissions(pages=1)
 ```
+<p>Using your Cookie🍪, this script is able to collect all of your submission history with these information:</p>
+
+- 'id' --> submission id
+- 'lang' --> language used
+- 'time' --> relative time of submission
+- 'timestamp' --> time of submission
+- 'status_display' --> submission status ('Accepted', 'Rejected', etc.)
+- 'runtime' --> submission runtime
+- 'is_pending' --> is pending?
+- 'title' --> problem title
+- 'memory' --> submission memory usage
+- 'code' --> your code
+- 'compare_result' --> a binary string where 1 represents "Correct" and 0 represents "Wrong"
 
 ### Question detail Retriever
 
