@@ -1,11 +1,14 @@
 # [143] Reorder List (Medium)
 
-[![LinkedList_badge](https://img.shields.io/badge/topic-LinkedList-green.svg)](https://leetcode.com/problems/reorder-list/) 
+[![Linked%20List_badge](https://img.shields.io/badge/topic-Linked%20List-green.svg)](https://leetcode.com/problems/reorder-list/) 
 
-:+1: 2335 &nbsp; &nbsp; :thumbsdown: 125
+:+1: 2345 &nbsp; &nbsp; :thumbsdown: 125
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 172 ms
 - Completed time: 2020-08-20 17:20:02
 
@@ -71,8 +74,8 @@ Given 1-&gt;2-&gt;3-&gt;4-&gt;5, reorder it to 1-&gt;5-&gt;2-&gt;4-&gt;3.
 
 
 ## What a(n) Medium problem!
-Among **687716** total submissions, **266538** are accepted, with an acceptance rate of 38.8%. <br>
+Among **688302** total submissions, **266891** are accepted, with an acceptance rate of **38.8%**. <br>
 
-- Likes: 2335
+- Likes: 2345
 - Dislikes: 125
 

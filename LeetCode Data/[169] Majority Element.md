@@ -1,11 +1,14 @@
 # [169] Majority Element (Easy)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/majority-element/)  [![DivideandConquer_badge](https://img.shields.io/badge/topic-DivideandConquer-green.svg)](https://leetcode.com/problems/majority-element/)  [![BitManipulation_badge](https://img.shields.io/badge/topic-BitManipulation-green.svg)](https://leetcode.com/problems/majority-element/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/majority-element/)  [![Divide%20and%20Conquer_badge](https://img.shields.io/badge/topic-Divide%20and%20Conquer-green.svg)](https://leetcode.com/problems/majority-element/)  [![Bit%20Manipulation_badge](https://img.shields.io/badge/topic-Bit%20Manipulation-green.svg)](https://leetcode.com/problems/majority-element/) 
 
-:+1: 3453 &nbsp; &nbsp; :thumbsdown: 226
+:+1: 3462 &nbsp; &nbsp; :thumbsdown: 226
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 240 ms
 - Completed time: 2020-07-20 21:27:58
 
@@ -50,8 +53,8 @@ class Solution:
 [Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1159393** total submissions, **681729** are accepted, with an acceptance rate of 58.8%. <br>
+Among **1160152** total submissions, **682280** are accepted, with an acceptance rate of **58.8%**. <br>
 
-- Likes: 3453
+- Likes: 3462
 - Dislikes: 226
 

@@ -1,11 +1,14 @@
 # [191] Number of 1 Bits (Easy)
 
-[![BitManipulation_badge](https://img.shields.io/badge/topic-BitManipulation-green.svg)](https://leetcode.com/problems/number-of-1-bits/) 
+[![Bit%20Manipulation_badge](https://img.shields.io/badge/topic-Bit%20Manipulation-green.svg)](https://leetcode.com/problems/number-of-1-bits/) 
 
-:+1: 943 &nbsp; &nbsp; :thumbsdown: 536
+:+1: 945 &nbsp; &nbsp; :thumbsdown: 536
+
+---
 
 ## My Submission
 
+- Language: c
 - Runtime: 4 ms
 - Completed time: 2020-07-29 14:34:18
 
@@ -75,8 +78,8 @@ int hammingWeight(uint32_t n) {
 [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **749554** total submissions, **374985** are accepted, with an acceptance rate of 50.0%. <br>
+Among **749995** total submissions, **375328** are accepted, with an acceptance rate of **50.0%**. <br>
 
-- Likes: 943
+- Likes: 945
 - Dislikes: 536
 

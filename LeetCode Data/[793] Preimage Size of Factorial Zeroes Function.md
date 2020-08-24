@@ -1,11 +1,14 @@
 # [793] Preimage Size of Factorial Zeroes Function (Hard)
 
-[![BinarySearch_badge](https://img.shields.io/badge/topic-BinarySearch-green.svg)](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) 
+[![Binary%20Search_badge](https://img.shields.io/badge/topic-Binary%20Search-green.svg)](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) 
 
 :+1: 175 &nbsp; &nbsp; :thumbsdown: 55
 
+---
+
 ## My Submission
 
+- Language: cpp
 - Runtime: 4 ms
 - Completed time: 2019-08-31 07:03:11
 
@@ -52,7 +55,7 @@ public:
 [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) (Easy) <br>
 
 ## What a(n) Hard problem!
-Among **20324** total submissions, **8181** are accepted, with an acceptance rate of 40.3%. <br>
+Among **20345** total submissions, **8184** are accepted, with an acceptance rate of **40.2%**. <br>
 
 - Likes: 175
 - Dislikes: 55

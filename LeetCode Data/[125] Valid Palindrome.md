@@ -1,11 +1,14 @@
 # [125] Valid Palindrome (Easy)
 
-[![TwoPointers_badge](https://img.shields.io/badge/topic-TwoPointers-green.svg)](https://leetcode.com/problems/valid-palindrome/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/valid-palindrome/) 
+[![Two%20Pointers_badge](https://img.shields.io/badge/topic-Two%20Pointers-green.svg)](https://leetcode.com/problems/valid-palindrome/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/valid-palindrome/) 
 
-:+1: 1355 &nbsp; &nbsp; :thumbsdown: 3089
+:+1: 1357 &nbsp; &nbsp; :thumbsdown: 3090
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 48 ms
 - Completed time: 2020-08-03 13:45:03
 
@@ -60,8 +63,8 @@ class Solution:
 [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1797883** total submissions, **661543** are accepted, with an acceptance rate of 36.8%. <br>
+Among **1799401** total submissions, **662250** are accepted, with an acceptance rate of **36.8%**. <br>
 
-- Likes: 1355
-- Dislikes: 3089
+- Likes: 1357
+- Dislikes: 3090
 

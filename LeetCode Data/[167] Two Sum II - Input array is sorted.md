@@ -1,11 +1,14 @@
 # [167] Two Sum II - Input array is sorted (Easy)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  [![TwoPointers_badge](https://img.shields.io/badge/topic-TwoPointers-green.svg)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  [![BinarySearch_badge](https://img.shields.io/badge/topic-BinarySearch-green.svg)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  [![Two%20Pointers_badge](https://img.shields.io/badge/topic-Two%20Pointers-green.svg)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  [![Binary%20Search_badge](https://img.shields.io/badge/topic-Binary%20Search-green.svg)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 
 
-:+1: 1781 &nbsp; &nbsp; :thumbsdown: 628
+:+1: 1785 &nbsp; &nbsp; :thumbsdown: 630
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 5212 ms
 - Completed time: 2020-07-19 14:11:06
 
@@ -47,8 +50,8 @@ class Solution:
 [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **801941** total submissions, **434574** are accepted, with an acceptance rate of 54.2%. <br>
+Among **802691** total submissions, **435109** are accepted, with an acceptance rate of **54.2%**. <br>
 
-- Likes: 1781
-- Dislikes: 628
+- Likes: 1785
+- Dislikes: 630
 

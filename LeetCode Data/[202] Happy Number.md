@@ -1,11 +1,14 @@
 # [202] Happy Number (Easy)
 
-[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/happy-number/)  [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/happy-number/) 
+[![Hash%20Table_badge](https://img.shields.io/badge/topic-Hash%20Table-green.svg)](https://leetcode.com/problems/happy-number/)  [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/happy-number/) 
 
-:+1: 2307 &nbsp; &nbsp; :thumbsdown: 442
+:+1: 2313 &nbsp; &nbsp; :thumbsdown: 442
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 24 ms
 - Completed time: 2020-04-03 12:59:03
 
@@ -47,8 +50,8 @@ class Solution:
 [Ugly Number](https://leetcode.com/problems/ugly-number/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1054042** total submissions, **532229** are accepted, with an acceptance rate of 50.5%. <br>
+Among **1054825** total submissions, **532699** are accepted, with an acceptance rate of **50.5%**. <br>
 
-- Likes: 2307
+- Likes: 2313
 - Dislikes: 442
 

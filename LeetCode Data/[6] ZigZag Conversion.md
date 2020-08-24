@@ -2,10 +2,13 @@
 
 [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/zigzag-conversion/) 
 
-:+1: 1783 &nbsp; &nbsp; :thumbsdown: 4800
+:+1: 1786 &nbsp; &nbsp; :thumbsdown: 4802
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 8 ms
 - Completed time: 2019-09-05 00:19:04
 
@@ -81,8 +84,8 @@ P     I</pre>
 
 
 ## What a(n) Medium problem!
-Among **1312337** total submissions, **478109** are accepted, with an acceptance rate of 36.4%. <br>
+Among **1313039** total submissions, **478481** are accepted, with an acceptance rate of **36.4%**. <br>
 
-- Likes: 1783
-- Dislikes: 4800
+- Likes: 1786
+- Dislikes: 4802
 

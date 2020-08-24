@@ -1,11 +1,14 @@
 # [21] Merge Two Sorted Lists (Easy)
 
-[![LinkedList_badge](https://img.shields.io/badge/topic-LinkedList-green.svg)](https://leetcode.com/problems/merge-two-sorted-lists/) 
+[![Linked%20List_badge](https://img.shields.io/badge/topic-Linked%20List-green.svg)](https://leetcode.com/problems/merge-two-sorted-lists/) 
 
-:+1: 4682 &nbsp; &nbsp; :thumbsdown: 611
+:+1: 4690 &nbsp; &nbsp; :thumbsdown: 612
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 44 ms
 - Completed time: 2020-07-29 15:18:33
 
@@ -59,8 +62,8 @@ class Solution:
 [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **1993973** total submissions, **1071280** are accepted, with an acceptance rate of 53.7%. <br>
+Among **1995859** total submissions, **1072566** are accepted, with an acceptance rate of **53.7%**. <br>
 
-- Likes: 4682
-- Dislikes: 611
+- Likes: 4690
+- Dislikes: 612
 

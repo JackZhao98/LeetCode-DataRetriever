@@ -1,11 +1,14 @@
 # [49] Group Anagrams (Medium)
 
-[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/group-anagrams/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/group-anagrams/) 
+[![Hash%20Table_badge](https://img.shields.io/badge/topic-Hash%20Table-green.svg)](https://leetcode.com/problems/group-anagrams/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/group-anagrams/) 
 
-:+1: 3851 &nbsp; &nbsp; :thumbsdown: 194
+:+1: 3857 &nbsp; &nbsp; :thumbsdown: 194
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 152 ms
 - Completed time: 2020-07-31 23:18:54
 
@@ -49,8 +52,8 @@ class Solution:
 [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) (Medium) <br>
 
 ## What a(n) Medium problem!
-Among **1267690** total submissions, **723229** are accepted, with an acceptance rate of 57.1%. <br>
+Among **1268823** total submissions, **724042** are accepted, with an acceptance rate of **57.1%**. <br>
 
-- Likes: 3851
+- Likes: 3857
 - Dislikes: 194
 

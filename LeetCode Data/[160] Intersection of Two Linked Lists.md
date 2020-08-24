@@ -1,11 +1,14 @@
 # [160] Intersection of Two Linked Lists (Easy)
 
-[![LinkedList_badge](https://img.shields.io/badge/topic-LinkedList-green.svg)](https://leetcode.com/problems/intersection-of-two-linked-lists/) 
+[![Linked%20List_badge](https://img.shields.io/badge/topic-Linked%20List-green.svg)](https://leetcode.com/problems/intersection-of-two-linked-lists/) 
 
-:+1: 3909 &nbsp; &nbsp; :thumbsdown: 443
+:+1: 3913 &nbsp; &nbsp; :thumbsdown: 443
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 188 ms
 - Completed time: 2020-07-29 17:50:10
 
@@ -91,8 +94,8 @@ class Solution:
 [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1216409** total submissions, **496615** are accepted, with an acceptance rate of 40.8%. <br>
+Among **1217458** total submissions, **497257** are accepted, with an acceptance rate of **40.8%**. <br>
 
-- Likes: 3909
+- Likes: 3913
 - Dislikes: 443
 

@@ -1,11 +1,14 @@
 # [110] Balanced Binary Tree (Easy)
 
-[![Tree_badge](https://img.shields.io/badge/topic-Tree-green.svg)](https://leetcode.com/problems/balanced-binary-tree/)  [![Depth-firstSearch_badge](https://img.shields.io/badge/topic-Depth-firstSearch-green.svg)](https://leetcode.com/problems/balanced-binary-tree/) 
+[![Tree_badge](https://img.shields.io/badge/topic-Tree-green.svg)](https://leetcode.com/problems/balanced-binary-tree/)  [![Depth-first%20Search_badge](https://img.shields.io/badge/topic-Depth-first%20Search-green.svg)](https://leetcode.com/problems/balanced-binary-tree/) 
 
-:+1: 2444 &nbsp; &nbsp; :thumbsdown: 178
+:+1: 2450 &nbsp; &nbsp; :thumbsdown: 178
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 48 ms
 - Completed time: 2020-08-16 18:11:26
 
@@ -79,8 +82,8 @@ class Solution:
 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1067411** total submissions, **465428** are accepted, with an acceptance rate of 43.6%. <br>
+Among **1068048** total submissions, **465764** are accepted, with an acceptance rate of **43.6%**. <br>
 
-- Likes: 2444
+- Likes: 2450
 - Dislikes: 178
 

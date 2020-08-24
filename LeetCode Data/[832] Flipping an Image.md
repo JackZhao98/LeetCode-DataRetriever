@@ -2,10 +2,13 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/flipping-an-image/) 
 
-:+1: 933 &nbsp; &nbsp; :thumbsdown: 150
+:+1: 934 &nbsp; &nbsp; :thumbsdown: 150
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 12 ms
 - Completed time: 2019-07-24 18:44:01
 
@@ -92,8 +95,8 @@ Then invert the image: [[1,1,0,0],[0,1,1,0],[0,0,0,1],[1,0,1,0]]
 
 
 ## What a(n) Easy problem!
-Among **234166** total submissions, **178719** are accepted, with an acceptance rate of 76.3%. <br>
+Among **234416** total submissions, **178921** are accepted, with an acceptance rate of **76.3%**. <br>
 
-- Likes: 933
+- Likes: 934
 - Dislikes: 150
 

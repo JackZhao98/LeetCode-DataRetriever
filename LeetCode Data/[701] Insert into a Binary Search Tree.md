@@ -2,10 +2,13 @@
 
 [![Tree_badge](https://img.shields.io/badge/topic-Tree-green.svg)](https://leetcode.com/problems/insert-into-a-binary-search-tree/) 
 
-:+1: 947 &nbsp; &nbsp; :thumbsdown: 80
+:+1: 948 &nbsp; &nbsp; :thumbsdown: 80
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 96 ms
 - Completed time: 2019-07-24 20:02:30
 
@@ -91,8 +94,8 @@ And the value to insert: 5
 [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) (Easy) <br>
 
 ## What a(n) Medium problem!
-Among **148816** total submissions, **115318** are accepted, with an acceptance rate of 77.5%. <br>
+Among **149073** total submissions, **115491** are accepted, with an acceptance rate of **77.5%**. <br>
 
-- Likes: 947
+- Likes: 948
 - Dislikes: 80
 

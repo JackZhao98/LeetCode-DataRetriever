@@ -2,10 +2,13 @@
 
 [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  [![Backtracking_badge](https://img.shields.io/badge/topic-Backtracking-green.svg)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) 
 
-:+1: 4203 &nbsp; &nbsp; :thumbsdown: 431
+:+1: 4206 &nbsp; &nbsp; :thumbsdown: 432
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 28 ms
 - Completed time: 2020-08-06 17:32:32
 
@@ -60,8 +63,8 @@ class Solution:
 [Binary Watch](https://leetcode.com/problems/binary-watch/) (Easy) <br>
 
 ## What a(n) Medium problem!
-Among **1364846** total submissions, **640771** are accepted, with an acceptance rate of 46.9%. <br>
+Among **1365838** total submissions, **641401** are accepted, with an acceptance rate of **47.0%**. <br>
 
-- Likes: 4203
-- Dislikes: 431
+- Likes: 4206
+- Dislikes: 432
 

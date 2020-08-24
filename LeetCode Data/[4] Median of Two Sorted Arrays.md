@@ -1,11 +1,14 @@
 # [4] Median of Two Sorted Arrays (Hard)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/median-of-two-sorted-arrays/)  [![BinarySearch_badge](https://img.shields.io/badge/topic-BinarySearch-green.svg)](https://leetcode.com/problems/median-of-two-sorted-arrays/)  [![DivideandConquer_badge](https://img.shields.io/badge/topic-DivideandConquer-green.svg)](https://leetcode.com/problems/median-of-two-sorted-arrays/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/median-of-two-sorted-arrays/)  [![Binary%20Search_badge](https://img.shields.io/badge/topic-Binary%20Search-green.svg)](https://leetcode.com/problems/median-of-two-sorted-arrays/)  [![Divide%20and%20Conquer_badge](https://img.shields.io/badge/topic-Divide%20and%20Conquer-green.svg)](https://leetcode.com/problems/median-of-two-sorted-arrays/) 
 
-:+1: 7611 &nbsp; &nbsp; :thumbsdown: 1201
+:+1: 7617 &nbsp; &nbsp; :thumbsdown: 1200
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 24 ms
 - Completed time: 2019-06-27 20:35:16
 
@@ -102,8 +105,8 @@ public:
 
 
 ## What a(n) Hard problem!
-Among **2432084** total submissions, **721979** are accepted, with an acceptance rate of 29.7%. <br>
+Among **2434211** total submissions, **722810** are accepted, with an acceptance rate of **29.7%**. <br>
 
-- Likes: 7611
-- Dislikes: 1201
+- Likes: 7617
+- Dislikes: 1200
 

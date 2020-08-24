@@ -2,10 +2,13 @@
 
 [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/defanging-an-ip-address/) 
 
-:+1: 437 &nbsp; &nbsp; :thumbsdown: 876
+:+1: 439 &nbsp; &nbsp; :thumbsdown: 877
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 4 ms
 - Completed time: 2019-07-25 00:40:11
 
@@ -58,8 +61,8 @@ public:
 
 
 ## What a(n) Easy problem!
-Among **244224** total submissions, **214107** are accepted, with an acceptance rate of 87.7%. <br>
+Among **244554** total submissions, **214419** are accepted, with an acceptance rate of **87.7%**. <br>
 
-- Likes: 437
-- Dislikes: 876
+- Likes: 439
+- Dislikes: 877
 

@@ -2,10 +2,13 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  [![Greedy_badge](https://img.shields.io/badge/topic-Greedy-green.svg)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) 
 
-:+1: 2747 &nbsp; &nbsp; :thumbsdown: 1788
+:+1: 2752 &nbsp; &nbsp; :thumbsdown: 1790
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 68 ms
 - Completed time: 2020-06-24 13:34:47
 
@@ -69,8 +72,8 @@ class Solution:
 [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **1134859** total submissions, **648015** are accepted, with an acceptance rate of 57.1%. <br>
+Among **1135919** total submissions, **648729** are accepted, with an acceptance rate of **57.1%**. <br>
 
-- Likes: 2747
-- Dislikes: 1788
+- Likes: 2752
+- Dislikes: 1790
 

@@ -1,11 +1,14 @@
 # [33] Search in Rotated Sorted Array (Medium)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/search-in-rotated-sorted-array/)  [![BinarySearch_badge](https://img.shields.io/badge/topic-BinarySearch-green.svg)](https://leetcode.com/problems/search-in-rotated-sorted-array/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/search-in-rotated-sorted-array/)  [![Binary%20Search_badge](https://img.shields.io/badge/topic-Binary%20Search-green.svg)](https://leetcode.com/problems/search-in-rotated-sorted-array/) 
 
-:+1: 5511 &nbsp; &nbsp; :thumbsdown: 476
+:+1: 5517 &nbsp; &nbsp; :thumbsdown: 479
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 32 ms
 - Completed time: 2020-08-17 18:41:38
 
@@ -60,8 +63,8 @@ class Solution:
 [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) (Medium) <br>
 
 ## What a(n) Medium problem!
-Among **2229113** total submissions, **771495** are accepted, with an acceptance rate of 34.6%. <br>
+Among **2231166** total submissions, **772384** are accepted, with an acceptance rate of **34.6%**. <br>
 
-- Likes: 5511
-- Dislikes: 476
+- Likes: 5517
+- Dislikes: 479
 

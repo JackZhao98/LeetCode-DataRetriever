@@ -1,11 +1,14 @@
 # [707] Design Linked List (Medium)
 
-[![LinkedList_badge](https://img.shields.io/badge/topic-LinkedList-green.svg)](https://leetcode.com/problems/design-linked-list/)  [![Design_badge](https://img.shields.io/badge/topic-Design-green.svg)](https://leetcode.com/problems/design-linked-list/) 
+[![Linked%20List_badge](https://img.shields.io/badge/topic-Linked%20List-green.svg)](https://leetcode.com/problems/design-linked-list/)  [![Design_badge](https://img.shields.io/badge/topic-Design-green.svg)](https://leetcode.com/problems/design-linked-list/) 
 
-:+1: 600 &nbsp; &nbsp; :thumbsdown: 722
+:+1: 601 &nbsp; &nbsp; :thumbsdown: 723
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 36 ms
 - Completed time: 2019-07-24 07:29:36
 
@@ -210,8 +213,8 @@ linkedList.get(1);&nbsp;&nbsp;&nbsp;         // returns 3
 [Design Skiplist](https://leetcode.com/problems/design-skiplist/) (Hard) <br>
 
 ## What a(n) Medium problem!
-Among **287810** total submissions, **71013** are accepted, with an acceptance rate of 24.7%. <br>
+Among **288432** total submissions, **71175** are accepted, with an acceptance rate of **24.7%**. <br>
 
-- Likes: 600
-- Dislikes: 722
+- Likes: 601
+- Dislikes: 723
 

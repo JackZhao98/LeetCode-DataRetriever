@@ -1,11 +1,14 @@
 # [136] Single Number (Easy)
 
-[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/single-number/)  [![BitManipulation_badge](https://img.shields.io/badge/topic-BitManipulation-green.svg)](https://leetcode.com/problems/single-number/) 
+[![Hash%20Table_badge](https://img.shields.io/badge/topic-Hash%20Table-green.svg)](https://leetcode.com/problems/single-number/)  [![Bit%20Manipulation_badge](https://img.shields.io/badge/topic-Bit%20Manipulation-green.svg)](https://leetcode.com/problems/single-number/) 
 
-:+1: 4751 &nbsp; &nbsp; :thumbsdown: 167
+:+1: 4757 &nbsp; &nbsp; :thumbsdown: 167
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 1712 ms
 - Completed time: 2020-04-03 12:27:30
 
@@ -51,8 +54,8 @@ class Solution:
 [Find the Difference](https://leetcode.com/problems/find-the-difference/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1414874** total submissions, **927773** are accepted, with an acceptance rate of 65.6%. <br>
+Among **1416135** total submissions, **928709** are accepted, with an acceptance rate of **65.6%**. <br>
 
-- Likes: 4751
+- Likes: 4757
 - Dislikes: 167
 

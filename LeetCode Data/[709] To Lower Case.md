@@ -2,10 +2,13 @@
 
 [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/to-lower-case/) 
 
-:+1: 510 &nbsp; &nbsp; :thumbsdown: 1607
+:+1: 510 &nbsp; &nbsp; :thumbsdown: 1611
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 4 ms
 - Completed time: 2019-07-24 17:21:08
 
@@ -68,8 +71,8 @@ public:
 
 
 ## What a(n) Easy problem!
-Among **275756** total submissions, **218867** are accepted, with an acceptance rate of 79.4%. <br>
+Among **275942** total submissions, **219031** are accepted, with an acceptance rate of **79.4%**. <br>
 
 - Likes: 510
-- Dislikes: 1607
+- Dislikes: 1611
 

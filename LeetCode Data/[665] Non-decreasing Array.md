@@ -2,10 +2,13 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/non-decreasing-array/) 
 
-:+1: 1982 &nbsp; &nbsp; :thumbsdown: 477
+:+1: 1984 &nbsp; &nbsp; :thumbsdown: 479
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 28 ms
 - Completed time: 2019-07-23 19:28:57
 
@@ -69,8 +72,8 @@ public:
 
 
 ## What a(n) Easy problem!
-Among **510152** total submissions, **99697** are accepted, with an acceptance rate of 19.5%. <br>
+Among **510737** total submissions, **99814** are accepted, with an acceptance rate of **19.5%**. <br>
 
-- Likes: 1982
-- Dislikes: 477
+- Likes: 1984
+- Dislikes: 479
 

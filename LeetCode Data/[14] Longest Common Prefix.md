@@ -2,10 +2,13 @@
 
 [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/longest-common-prefix/) 
 
-:+1: 2820 &nbsp; &nbsp; :thumbsdown: 1927
+:+1: 2825 &nbsp; &nbsp; :thumbsdown: 1931
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 8 ms
 - Completed time: 2019-09-03 00:59:03
 
@@ -70,8 +73,8 @@ public:
 
 
 ## What a(n) Easy problem!
-Among **2242277** total submissions, **795487** are accepted, with an acceptance rate of 35.5%. <br>
+Among **2244271** total submissions, **796305** are accepted, with an acceptance rate of **35.5%**. <br>
 
-- Likes: 2820
-- Dislikes: 1927
+- Likes: 2825
+- Dislikes: 1931
 

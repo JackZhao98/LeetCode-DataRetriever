@@ -2,10 +2,13 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/three-consecutive-odds/) 
 
-:+1: 69 &nbsp; &nbsp; :thumbsdown: 12
+:+1: 70 &nbsp; &nbsp; :thumbsdown: 12
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 44 ms
 - Completed time: 2020-08-15 19:32:14
 
@@ -55,8 +58,8 @@ Given an integer array <code>arr</code>, return <code>true</code>&nbsp;if there 
 
 
 ## What a(n) Easy problem!
-Among **21018** total submissions, **14229** are accepted, with an acceptance rate of 67.7%. <br>
+Among **21377** total submissions, **14469** are accepted, with an acceptance rate of **67.7%**. <br>
 
-- Likes: 69
+- Likes: 70
 - Dislikes: 12
 

@@ -2,10 +2,13 @@
 
 [![Backtracking_badge](https://img.shields.io/badge/topic-Backtracking-green.svg)](https://leetcode.com/problems/iterator-for-combination/)  [![Design_badge](https://img.shields.io/badge/topic-Design-green.svg)](https://leetcode.com/problems/iterator-for-combination/) 
 
-:+1: 454 &nbsp; &nbsp; :thumbsdown: 40
+:+1: 455 &nbsp; &nbsp; :thumbsdown: 40
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 4032 ms
 - Completed time: 2020-08-13 18:21:58
 
@@ -79,8 +82,8 @@ iterator.hasNext(); // returns false
 
 
 ## What a(n) Medium problem!
-Among **46853** total submissions, **33099** are accepted, with an acceptance rate of 70.6%. <br>
+Among **46938** total submissions, **33153** are accepted, with an acceptance rate of **70.6%**. <br>
 
-- Likes: 454
+- Likes: 455
 - Dislikes: 40
 

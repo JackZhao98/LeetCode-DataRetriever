@@ -1,11 +1,14 @@
 # [387] First Unique Character in a String (Easy)
 
-[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/first-unique-character-in-a-string/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/first-unique-character-in-a-string/) 
+[![Hash%20Table_badge](https://img.shields.io/badge/topic-Hash%20Table-green.svg)](https://leetcode.com/problems/first-unique-character-in-a-string/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/first-unique-character-in-a-string/) 
 
-:+1: 2076 &nbsp; &nbsp; :thumbsdown: 117
+:+1: 2080 &nbsp; &nbsp; :thumbsdown: 117
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 172 ms
 - Completed time: 2020-07-23 17:47:48
 
@@ -48,8 +51,8 @@ return 2.
 [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **1064638** total submissions, **568522** are accepted, with an acceptance rate of 53.4%. <br>
+Among **1065731** total submissions, **569150** are accepted, with an acceptance rate of **53.4%**. <br>
 
-- Likes: 2076
+- Likes: 2080
 - Dislikes: 117
 

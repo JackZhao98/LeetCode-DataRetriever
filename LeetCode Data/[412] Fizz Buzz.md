@@ -2,10 +2,13 @@
 
 
 
-:+1: 938 &nbsp; &nbsp; :thumbsdown: 1236
+:+1: 939 &nbsp; &nbsp; :thumbsdown: 1238
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 44 ms
 - Completed time: 2020-07-23 15:53:54
 
@@ -59,8 +62,8 @@ Return:
 [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **565635** total submissions, **352605** are accepted, with an acceptance rate of 62.3%. <br>
+Among **566202** total submissions, **352996** are accepted, with an acceptance rate of **62.3%**. <br>
 
-- Likes: 938
-- Dislikes: 1236
+- Likes: 939
+- Dislikes: 1238
 

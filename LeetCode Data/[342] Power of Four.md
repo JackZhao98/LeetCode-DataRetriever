@@ -1,11 +1,14 @@
 # [342] Power of Four (Easy)
 
-[![BitManipulation_badge](https://img.shields.io/badge/topic-BitManipulation-green.svg)](https://leetcode.com/problems/power-of-four/) 
+[![Bit%20Manipulation_badge](https://img.shields.io/badge/topic-Bit%20Manipulation-green.svg)](https://leetcode.com/problems/power-of-four/) 
 
-:+1: 679 &nbsp; &nbsp; :thumbsdown: 235
+:+1: 680 &nbsp; &nbsp; :thumbsdown: 235
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 4 ms
 - Completed time: 2020-08-04 13:42:32
 
@@ -50,8 +53,8 @@ public:
 [Power of Three](https://leetcode.com/problems/power-of-three/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **487523** total submissions, **202110** are accepted, with an acceptance rate of 41.5%. <br>
+Among **488059** total submissions, **202290** are accepted, with an acceptance rate of **41.4%**. <br>
 
-- Likes: 679
+- Likes: 680
 - Dislikes: 235
 

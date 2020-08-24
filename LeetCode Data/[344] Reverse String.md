@@ -1,11 +1,14 @@
 # [344] Reverse String (Easy)
 
-[![TwoPointers_badge](https://img.shields.io/badge/topic-TwoPointers-green.svg)](https://leetcode.com/problems/reverse-string/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/reverse-string/) 
+[![Two%20Pointers_badge](https://img.shields.io/badge/topic-Two%20Pointers-green.svg)](https://leetcode.com/problems/reverse-string/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/reverse-string/) 
 
-:+1: 1560 &nbsp; &nbsp; :thumbsdown: 708
+:+1: 1562 &nbsp; &nbsp; :thumbsdown: 708
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 40 ms
 - Completed time: 2019-07-26 00:10:19
 
@@ -61,8 +64,8 @@ public:
 [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1166202** total submissions, **800845** are accepted, with an acceptance rate of 68.7%. <br>
+Among **1167175** total submissions, **801600** are accepted, with an acceptance rate of **68.7%**. <br>
 
-- Likes: 1560
+- Likes: 1562
 - Dislikes: 708
 

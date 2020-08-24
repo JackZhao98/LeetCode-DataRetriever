@@ -1,11 +1,14 @@
 # [234] Palindrome Linked List (Easy)
 
-[![LinkedList_badge](https://img.shields.io/badge/topic-LinkedList-green.svg)](https://leetcode.com/problems/palindrome-linked-list/)  [![TwoPointers_badge](https://img.shields.io/badge/topic-TwoPointers-green.svg)](https://leetcode.com/problems/palindrome-linked-list/) 
+[![Linked%20List_badge](https://img.shields.io/badge/topic-Linked%20List-green.svg)](https://leetcode.com/problems/palindrome-linked-list/)  [![Two%20Pointers_badge](https://img.shields.io/badge/topic-Two%20Pointers-green.svg)](https://leetcode.com/problems/palindrome-linked-list/) 
 
-:+1: 3472 &nbsp; &nbsp; :thumbsdown: 375
+:+1: 3482 &nbsp; &nbsp; :thumbsdown: 374
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 68 ms
 - Completed time: 2020-04-15 12:47:05
 
@@ -85,8 +88,8 @@ Could you do it in O(n) time and O(1) space?</p>
 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1148772** total submissions, **452223** are accepted, with an acceptance rate of 39.4%. <br>
+Among **1150227** total submissions, **452893** are accepted, with an acceptance rate of **39.4%**. <br>
 
-- Likes: 3472
-- Dislikes: 375
+- Likes: 3482
+- Dislikes: 374
 

@@ -4,8 +4,11 @@
 
 :+1: 407 &nbsp; &nbsp; :thumbsdown: 802
 
+---
+
 ## My Submission
 
+- Language: python3
 - Runtime: 48 ms
 - Completed time: 2020-08-19 12:10:43
 
@@ -74,7 +77,7 @@ class Solution:
 
 
 ## What a(n) Easy problem!
-Among **145419** total submissions, **95766** are accepted, with an acceptance rate of 65.9%. <br>
+Among **145665** total submissions, **95941** are accepted, with an acceptance rate of **65.9%**. <br>
 
 - Likes: 407
 - Dislikes: 802

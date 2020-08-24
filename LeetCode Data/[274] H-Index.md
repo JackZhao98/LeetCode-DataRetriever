@@ -1,11 +1,14 @@
 # [274] H-Index (Medium)
 
-[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/h-index/)  [![Sort_badge](https://img.shields.io/badge/topic-Sort-green.svg)](https://leetcode.com/problems/h-index/) 
+[![Hash%20Table_badge](https://img.shields.io/badge/topic-Hash%20Table-green.svg)](https://leetcode.com/problems/h-index/)  [![Sort_badge](https://img.shields.io/badge/topic-Sort-green.svg)](https://leetcode.com/problems/h-index/) 
 
 :+1: 764 &nbsp; &nbsp; :thumbsdown: 1303
 
+---
+
 ## My Submission
 
+- Language: python3
 - Runtime: 36 ms
 - Completed time: 2020-08-11 18:19:46
 
@@ -45,7 +48,7 @@ class Solution:
 [H-Index II](https://leetcode.com/problems/h-index-ii/) (Medium) <br>
 
 ## What a(n) Medium problem!
-Among **510422** total submissions, **185020** are accepted, with an acceptance rate of 36.2%. <br>
+Among **510743** total submissions, **185155** are accepted, with an acceptance rate of **36.3%**. <br>
 
 - Likes: 764
 - Dislikes: 1303

@@ -4,8 +4,11 @@
 
 :+1: 407 &nbsp; &nbsp; :thumbsdown: 115
 
+---
+
 ## My Submission
 
+- Language: python3
 - Runtime: 40 ms
 - Completed time: 2020-08-17 16:05:46
 
@@ -73,7 +76,7 @@ On the fourth turn, ans[0] += 4, and the final array is [5,2,3].
 
 
 ## What a(n) Easy problem!
-Among **77679** total submissions, **49460** are accepted, with an acceptance rate of 63.7%. <br>
+Among **77857** total submissions, **49570** are accepted, with an acceptance rate of **63.7%**. <br>
 
 - Likes: 407
 - Dislikes: 115

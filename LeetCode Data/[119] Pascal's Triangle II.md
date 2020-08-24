@@ -2,10 +2,13 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/pascals-triangle-ii/) 
 
-:+1: 1017 &nbsp; &nbsp; :thumbsdown: 201
+:+1: 1018 &nbsp; &nbsp; :thumbsdown: 201
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 20 ms
 - Completed time: 2020-08-12 12:27:52
 
@@ -53,8 +56,8 @@ class Solution:
 [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **632065** total submissions, **320330** are accepted, with an acceptance rate of 50.7%. <br>
+Among **632404** total submissions, **320570** are accepted, with an acceptance rate of **50.7%**. <br>
 
-- Likes: 1017
+- Likes: 1018
 - Dislikes: 201
 

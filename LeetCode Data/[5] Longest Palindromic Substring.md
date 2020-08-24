@@ -1,11 +1,14 @@
 # [5] Longest Palindromic Substring (Medium)
 
-[![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/longest-palindromic-substring/)  [![DynamicProgramming_badge](https://img.shields.io/badge/topic-DynamicProgramming-green.svg)](https://leetcode.com/problems/longest-palindromic-substring/) 
+[![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/longest-palindromic-substring/)  [![Dynamic%20Programming_badge](https://img.shields.io/badge/topic-Dynamic%20Programming-green.svg)](https://leetcode.com/problems/longest-palindromic-substring/) 
 
-:+1: 7594 &nbsp; &nbsp; :thumbsdown: 562
+:+1: 7608 &nbsp; &nbsp; :thumbsdown: 562
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 964 ms
 - Completed time: 2020-08-02 17:50:16
 
@@ -62,8 +65,8 @@ class Solution:
 [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) (Medium) <br>
 
 ## What a(n) Medium problem!
-Among **3384760** total submissions, **998662** are accepted, with an acceptance rate of 29.5%. <br>
+Among **3388121** total submissions, **999797** are accepted, with an acceptance rate of **29.5%**. <br>
 
-- Likes: 7594
+- Likes: 7608
 - Dislikes: 562
 

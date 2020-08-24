@@ -1,11 +1,14 @@
 # [141] Linked List Cycle (Easy)
 
-[![LinkedList_badge](https://img.shields.io/badge/topic-LinkedList-green.svg)](https://leetcode.com/problems/linked-list-cycle/)  [![TwoPointers_badge](https://img.shields.io/badge/topic-TwoPointers-green.svg)](https://leetcode.com/problems/linked-list-cycle/) 
+[![Linked%20List_badge](https://img.shields.io/badge/topic-Linked%20List-green.svg)](https://leetcode.com/problems/linked-list-cycle/)  [![Two%20Pointers_badge](https://img.shields.io/badge/topic-Two%20Pointers-green.svg)](https://leetcode.com/problems/linked-list-cycle/) 
 
-:+1: 3131 &nbsp; &nbsp; :thumbsdown: 524
+:+1: 3136 &nbsp; &nbsp; :thumbsdown: 525
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 48 ms
 - Completed time: 2020-06-24 13:55:02
 
@@ -89,8 +92,8 @@ class Solution:
 [Happy Number](https://leetcode.com/problems/happy-number/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1637676** total submissions, **675050** are accepted, with an acceptance rate of 41.2%. <br>
+Among **1639339** total submissions, **675922** are accepted, with an acceptance rate of **41.2%**. <br>
 
-- Likes: 3131
-- Dislikes: 524
+- Likes: 3136
+- Dislikes: 525
 

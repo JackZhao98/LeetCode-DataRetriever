@@ -1,11 +1,14 @@
 # [967] Numbers With Same Consecutive Differences (Medium)
 
-[![DynamicProgramming_badge](https://img.shields.io/badge/topic-DynamicProgramming-green.svg)](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) 
+[![Dynamic%20Programming_badge](https://img.shields.io/badge/topic-Dynamic%20Programming-green.svg)](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) 
 
-:+1: 480 &nbsp; &nbsp; :thumbsdown: 106
+:+1: 485 &nbsp; &nbsp; :thumbsdown: 106
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 60 ms
 - Completed time: 2020-08-18 17:57:21
 
@@ -81,8 +84,8 @@ class Solution:
 
 
 ## What a(n) Medium problem!
-Among **84770** total submissions, **37034** are accepted, with an acceptance rate of 43.7%. <br>
+Among **85068** total submissions, **37175** are accepted, with an acceptance rate of **43.7%**. <br>
 
-- Likes: 480
+- Likes: 485
 - Dislikes: 106
 

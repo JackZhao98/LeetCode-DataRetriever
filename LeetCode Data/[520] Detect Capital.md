@@ -2,10 +2,13 @@
 
 [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/detect-capital/) 
 
-:+1: 639 &nbsp; &nbsp; :thumbsdown: 278
+:+1: 641 &nbsp; &nbsp; :thumbsdown: 278
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 32 ms
 - Completed time: 2020-08-03 13:38:01
 
@@ -73,8 +76,8 @@ Otherwise, we define that this word doesn&#39;t use capitals in a right way.
 
 
 ## What a(n) Easy problem!
-Among **313344** total submissions, **169004** are accepted, with an acceptance rate of 53.9%. <br>
+Among **313950** total submissions, **169316** are accepted, with an acceptance rate of **53.9%**. <br>
 
-- Likes: 639
+- Likes: 641
 - Dislikes: 278
 

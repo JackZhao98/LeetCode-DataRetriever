@@ -1,11 +1,14 @@
 # [2] Add Two Numbers (Medium)
 
-[![LinkedList_badge](https://img.shields.io/badge/topic-LinkedList-green.svg)](https://leetcode.com/problems/add-two-numbers/)  [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/add-two-numbers/) 
+[![Linked%20List_badge](https://img.shields.io/badge/topic-Linked%20List-green.svg)](https://leetcode.com/problems/add-two-numbers/)  [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/add-two-numbers/) 
 
-:+1: 8899 &nbsp; &nbsp; :thumbsdown: 2246
+:+1: 8909 &nbsp; &nbsp; :thumbsdown: 2247
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 28 ms
 - Completed time: 2019-06-27 20:15:26
 
@@ -96,8 +99,8 @@ public:
 [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) (Easy) <br>
 
 ## What a(n) Medium problem!
-Among **4412499** total submissions, **1498687** are accepted, with an acceptance rate of 34.0%. <br>
+Among **4416041** total submissions, **1500232** are accepted, with an acceptance rate of **34.0%**. <br>
 
-- Likes: 8899
-- Dislikes: 2246
+- Likes: 8909
+- Dislikes: 2247
 

@@ -1,11 +1,14 @@
 # [1] Two Sum (Easy)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/two-sum/)  [![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/two-sum/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/two-sum/)  [![Hash%20Table_badge](https://img.shields.io/badge/topic-Hash%20Table-green.svg)](https://leetcode.com/problems/two-sum/) 
 
-:+1: 16378 &nbsp; &nbsp; :thumbsdown: 590
+:+1: 16398 &nbsp; &nbsp; :thumbsdown: 592
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 324 ms
 - Completed time: 2019-06-27 19:48:28
 
@@ -55,8 +58,8 @@ return [<strong>0</strong>, <strong>1</strong>].
 [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **7035067** total submissions, **3211566** are accepted, with an acceptance rate of 45.7%. <br>
+Among **7042094** total submissions, **3215057** are accepted, with an acceptance rate of **45.7%**. <br>
 
-- Likes: 16378
-- Dislikes: 590
+- Likes: 16398
+- Dislikes: 592
 

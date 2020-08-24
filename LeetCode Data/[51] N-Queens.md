@@ -2,10 +2,13 @@
 
 [![Backtracking_badge](https://img.shields.io/badge/topic-Backtracking-green.svg)](https://leetcode.com/problems/n-queens/) 
 
-:+1: 2057 &nbsp; &nbsp; :thumbsdown: 77
+:+1: 2063 &nbsp; &nbsp; :thumbsdown: 77
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 8 ms
 - Completed time: 2019-09-03 00:28:59
 
@@ -98,8 +101,8 @@ public:
 [Grid Illumination](https://leetcode.com/problems/grid-illumination/) (Hard) <br>
 
 ## What a(n) Hard problem!
-Among **448223** total submissions, **209972** are accepted, with an acceptance rate of 46.8%. <br>
+Among **448377** total submissions, **210109** are accepted, with an acceptance rate of **46.9%**. <br>
 
-- Likes: 2057
+- Likes: 2063
 - Dislikes: 77
 

@@ -1,11 +1,14 @@
 # [283] Move Zeroes (Easy)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/move-zeroes/)  [![TwoPointers_badge](https://img.shields.io/badge/topic-TwoPointers-green.svg)](https://leetcode.com/problems/move-zeroes/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/move-zeroes/)  [![Two%20Pointers_badge](https://img.shields.io/badge/topic-Two%20Pointers-green.svg)](https://leetcode.com/problems/move-zeroes/) 
 
-:+1: 4069 &nbsp; &nbsp; :thumbsdown: 129
+:+1: 4072 &nbsp; &nbsp; :thumbsdown: 129
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 116 ms
 - Completed time: 2020-04-04 18:45:03
 
@@ -46,8 +49,8 @@ class Solution:
 [Remove Element](https://leetcode.com/problems/remove-element/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **1530541** total submissions, **886058** are accepted, with an acceptance rate of 57.9%. <br>
+Among **1532207** total submissions, **887136** are accepted, with an acceptance rate of **57.9%**. <br>
 
-- Likes: 4069
+- Likes: 4072
 - Dislikes: 129
 

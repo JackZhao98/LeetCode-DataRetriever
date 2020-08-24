@@ -2,10 +2,13 @@
 
 [![Greedy_badge](https://img.shields.io/badge/topic-Greedy-green.svg)](https://leetcode.com/problems/non-overlapping-intervals/) 
 
-:+1: 1424 &nbsp; &nbsp; :thumbsdown: 43
+:+1: 1428 &nbsp; &nbsp; :thumbsdown: 43
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 76 ms
 - Completed time: 2020-08-15 16:38:25
 
@@ -72,8 +75,8 @@ class Solution:
 [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) (Medium) <br>
 
 ## What a(n) Medium problem!
-Among **236220** total submissions, **102682** are accepted, with an acceptance rate of 43.5%. <br>
+Among **236781** total submissions, **102924** are accepted, with an acceptance rate of **43.5%**. <br>
 
-- Likes: 1424
+- Likes: 1428
 - Dislikes: 43
 

@@ -2,10 +2,13 @@
 
 [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/excel-sheet-column-title/) 
 
-:+1: 1297 &nbsp; &nbsp; :thumbsdown: 257
+:+1: 1299 &nbsp; &nbsp; :thumbsdown: 257
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 36 ms
 - Completed time: 2020-07-19 16:22:42
 
@@ -64,8 +67,8 @@ class Solution:
 [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **721351** total submissions, **224538** are accepted, with an acceptance rate of 31.1%. <br>
+Among **721686** total submissions, **224687** are accepted, with an acceptance rate of **31.1%**. <br>
 
-- Likes: 1297
+- Likes: 1299
 - Dislikes: 257
 

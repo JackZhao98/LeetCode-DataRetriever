@@ -2,10 +2,13 @@
 
 [![Stack_badge](https://img.shields.io/badge/topic-Stack-green.svg)](https://leetcode.com/problems/build-an-array-with-stack-operations/) 
 
-:+1: 156 &nbsp; &nbsp; :thumbsdown: 187
+:+1: 157 &nbsp; &nbsp; :thumbsdown: 187
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 40 ms
 - Completed time: 2020-05-09 19:47:30
 
@@ -96,8 +99,8 @@ Read number 3 and automatically push in the array -&gt; [1,3]
 
 
 ## What a(n) Easy problem!
-Among **31260** total submissions, **21514** are accepted, with an acceptance rate of 68.8%. <br>
+Among **31376** total submissions, **21590** are accepted, with an acceptance rate of **68.8%**. <br>
 
-- Likes: 156
+- Likes: 157
 - Dislikes: 187
 

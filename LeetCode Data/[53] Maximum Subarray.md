@@ -1,11 +1,14 @@
 # [53] Maximum Subarray (Easy)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/maximum-subarray/)  [![DivideandConquer_badge](https://img.shields.io/badge/topic-DivideandConquer-green.svg)](https://leetcode.com/problems/maximum-subarray/)  [![DynamicProgramming_badge](https://img.shields.io/badge/topic-DynamicProgramming-green.svg)](https://leetcode.com/problems/maximum-subarray/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/maximum-subarray/)  [![Divide%20and%20Conquer_badge](https://img.shields.io/badge/topic-Divide%20and%20Conquer-green.svg)](https://leetcode.com/problems/maximum-subarray/)  [![Dynamic%20Programming_badge](https://img.shields.io/badge/topic-Dynamic%20Programming-green.svg)](https://leetcode.com/problems/maximum-subarray/) 
 
-:+1: 8568 &nbsp; &nbsp; :thumbsdown: 404
+:+1: 8580 &nbsp; &nbsp; :thumbsdown: 405
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 80 ms
 - Completed time: 2020-04-03 14:21:53
 
@@ -56,8 +59,8 @@ class Solution:
 [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **2338975** total submissions, **1090265** are accepted, with an acceptance rate of 46.6%. <br>
+Among **2341455** total submissions, **1091562** are accepted, with an acceptance rate of **46.6%**. <br>
 
-- Likes: 8568
-- Dislikes: 404
+- Likes: 8580
+- Dislikes: 405
 

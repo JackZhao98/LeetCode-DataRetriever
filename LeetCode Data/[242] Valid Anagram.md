@@ -1,11 +1,14 @@
 # [242] Valid Anagram (Easy)
 
-[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/valid-anagram/)  [![Sort_badge](https://img.shields.io/badge/topic-Sort-green.svg)](https://leetcode.com/problems/valid-anagram/) 
+[![Hash%20Table_badge](https://img.shields.io/badge/topic-Hash%20Table-green.svg)](https://leetcode.com/problems/valid-anagram/)  [![Sort_badge](https://img.shields.io/badge/topic-Sort-green.svg)](https://leetcode.com/problems/valid-anagram/) 
 
-:+1: 1690 &nbsp; &nbsp; :thumbsdown: 145
+:+1: 1692 &nbsp; &nbsp; :thumbsdown: 145
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 48 ms
 - Completed time: 2020-07-23 15:58:09
 
@@ -52,8 +55,8 @@ What if the inputs contain unicode characters? How would you adapt your solution
 [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **1060344** total submissions, **603967** are accepted, with an acceptance rate of 57.0%. <br>
+Among **1061412** total submissions, **604662** are accepted, with an acceptance rate of **57.0%**. <br>
 
-- Likes: 1690
+- Likes: 1692
 - Dislikes: 145
 

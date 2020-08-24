@@ -1,11 +1,14 @@
 # [217] Contains Duplicate (Easy)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/contains-duplicate/)  [![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/contains-duplicate/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/contains-duplicate/)  [![Hash%20Table_badge](https://img.shields.io/badge/topic-Hash%20Table-green.svg)](https://leetcode.com/problems/contains-duplicate/) 
 
-:+1: 970 &nbsp; &nbsp; :thumbsdown: 758
+:+1: 974 &nbsp; &nbsp; :thumbsdown: 757
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 128 ms
 - Completed time: 2020-07-23 16:58:35
 
@@ -44,8 +47,8 @@ class Solution:
 [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **1076140** total submissions, **603249** are accepted, with an acceptance rate of 56.1%. <br>
+Among **1077366** total submissions, **604033** are accepted, with an acceptance rate of **56.1%**. <br>
 
-- Likes: 970
-- Dislikes: 758
+- Likes: 974
+- Dislikes: 757
 

@@ -1,11 +1,14 @@
 # [771] Jewels and Stones (Easy)
 
-[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/jewels-and-stones/) 
+[![Hash%20Table_badge](https://img.shields.io/badge/topic-Hash%20Table-green.svg)](https://leetcode.com/problems/jewels-and-stones/) 
 
-:+1: 2185 &nbsp; &nbsp; :thumbsdown: 372
+:+1: 2188 &nbsp; &nbsp; :thumbsdown: 372
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 4 ms
 - Completed time: 2019-07-26 00:25:16
 
@@ -62,8 +65,8 @@ public:
 
 
 ## What a(n) Easy problem!
-Among **616867** total submissions, **532990** are accepted, with an acceptance rate of 86.4%. <br>
+Among **617277** total submissions, **533361** are accepted, with an acceptance rate of **86.4%**. <br>
 
-- Likes: 2185
+- Likes: 2188
 - Dislikes: 372
 

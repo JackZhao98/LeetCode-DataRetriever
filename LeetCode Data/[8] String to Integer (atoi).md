@@ -2,10 +2,13 @@
 
 [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/string-to-integer-atoi/)  [![String_badge](https://img.shields.io/badge/topic-String-green.svg)](https://leetcode.com/problems/string-to-integer-atoi/) 
 
-:+1: 1685 &nbsp; &nbsp; :thumbsdown: 9711
+:+1: 1688 &nbsp; &nbsp; :thumbsdown: 9724
+
+---
 
 ## My Submission
 
+- Language: cpp
 - Runtime: 8 ms
 - Completed time: 2019-06-27 20:59:17
 
@@ -129,8 +132,8 @@ public:
 [Valid Number](https://leetcode.com/problems/valid-number/) (Hard) <br>
 
 ## What a(n) Medium problem!
-Among **3859526** total submissions, **593924** are accepted, with an acceptance rate of 15.4%. <br>
+Among **3862541** total submissions, **594431** are accepted, with an acceptance rate of **15.4%**. <br>
 
-- Likes: 1685
-- Dislikes: 9711
+- Likes: 1688
+- Dislikes: 9724
 

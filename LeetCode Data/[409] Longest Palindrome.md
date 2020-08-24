@@ -1,11 +1,14 @@
 # [409] Longest Palindrome (Easy)
 
-[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/longest-palindrome/) 
+[![Hash%20Table_badge](https://img.shields.io/badge/topic-Hash%20Table-green.svg)](https://leetcode.com/problems/longest-palindrome/) 
 
-:+1: 1202 &nbsp; &nbsp; :thumbsdown: 89
+:+1: 1205 &nbsp; &nbsp; :thumbsdown: 89
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 28 ms
 - Completed time: 2020-08-14 14:11:32
 
@@ -68,8 +71,8 @@ One longest palindrome that can be built is &quot;dccaccd&quot;, whose length is
 [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **335274** total submissions, **173433** are accepted, with an acceptance rate of 51.7%. <br>
+Among **335580** total submissions, **173595** are accepted, with an acceptance rate of **51.7%**. <br>
 
-- Likes: 1202
+- Likes: 1205
 - Dislikes: 89
 

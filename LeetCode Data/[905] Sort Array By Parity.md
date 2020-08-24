@@ -2,10 +2,13 @@
 
 [![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/sort-array-by-parity/) 
 
-:+1: 1206 &nbsp; &nbsp; :thumbsdown: 77
+:+1: 1209 &nbsp; &nbsp; :thumbsdown: 77
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 160 ms
 - Completed time: 2020-08-21 11:45:53
 
@@ -58,8 +61,8 @@ The outputs [4,2,3,1], [2,4,1,3], and [4,2,1,3] would also be accepted.
 
 
 ## What a(n) Easy problem!
-Among **323629** total submissions, **242467** are accepted, with an acceptance rate of 74.9%. <br>
+Among **324709** total submissions, **243256** are accepted, with an acceptance rate of **74.9%**. <br>
 
-- Likes: 1206
+- Likes: 1209
 - Dislikes: 77
 

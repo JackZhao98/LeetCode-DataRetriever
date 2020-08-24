@@ -2,10 +2,13 @@
 
 [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) 
 
-:+1: 95 &nbsp; &nbsp; :thumbsdown: 20
+:+1: 96 &nbsp; &nbsp; :thumbsdown: 20
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 44 ms
 - Completed time: 2020-08-15 19:49:58
 
@@ -56,8 +59,8 @@ In the second operation choose x = 2 and y = 0 again, thus arr = [3, 3, 3].
 
 
 ## What a(n) Medium problem!
-Among **15551** total submissions, **12167** are accepted, with an acceptance rate of 78.2%. <br>
+Among **15749** total submissions, **12309** are accepted, with an acceptance rate of **78.2%**. <br>
 
-- Likes: 95
+- Likes: 96
 - Dislikes: 20
 

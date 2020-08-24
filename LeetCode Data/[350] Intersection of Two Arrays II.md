@@ -1,11 +1,14 @@
 # [350] Intersection of Two Arrays II (Easy)
 
-[![HashTable_badge](https://img.shields.io/badge/topic-HashTable-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  [![TwoPointers_badge](https://img.shields.io/badge/topic-TwoPointers-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  [![BinarySearch_badge](https://img.shields.io/badge/topic-BinarySearch-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  [![Sort_badge](https://img.shields.io/badge/topic-Sort-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/) 
+[![Hash%20Table_badge](https://img.shields.io/badge/topic-Hash%20Table-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  [![Two%20Pointers_badge](https://img.shields.io/badge/topic-Two%20Pointers-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  [![Binary%20Search_badge](https://img.shields.io/badge/topic-Binary%20Search-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  [![Sort_badge](https://img.shields.io/badge/topic-Sort-green.svg)](https://leetcode.com/problems/intersection-of-two-arrays-ii/) 
 
-:+1: 1501 &nbsp; &nbsp; :thumbsdown: 428
+:+1: 1505 &nbsp; &nbsp; :thumbsdown: 428
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 80 ms
 - Completed time: 2020-07-24 21:18:17
 
@@ -59,8 +62,8 @@ class Solution:
 [Find Common Characters](https://leetcode.com/problems/find-common-characters/) (Easy) <br>
 
 ## What a(n) Easy problem!
-Among **733395** total submissions, **377148** are accepted, with an acceptance rate of 51.4%. <br>
+Among **734310** total submissions, **377640** are accepted, with an acceptance rate of **51.4%**. <br>
 
-- Likes: 1501
+- Likes: 1505
 - Dislikes: 428
 

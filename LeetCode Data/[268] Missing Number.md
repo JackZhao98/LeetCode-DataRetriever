@@ -1,11 +1,14 @@
 # [268] Missing Number (Easy)
 
-[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/missing-number/)  [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/missing-number/)  [![BitManipulation_badge](https://img.shields.io/badge/topic-BitManipulation-green.svg)](https://leetcode.com/problems/missing-number/) 
+[![Array_badge](https://img.shields.io/badge/topic-Array-green.svg)](https://leetcode.com/problems/missing-number/)  [![Math_badge](https://img.shields.io/badge/topic-Math-green.svg)](https://leetcode.com/problems/missing-number/)  [![Bit%20Manipulation_badge](https://img.shields.io/badge/topic-Bit%20Manipulation-green.svg)](https://leetcode.com/problems/missing-number/) 
 
-:+1: 1928 &nbsp; &nbsp; :thumbsdown: 2214
+:+1: 1930 &nbsp; &nbsp; :thumbsdown: 2217
+
+---
 
 ## My Submission
 
+- Language: python3
 - Runtime: 148 ms
 - Completed time: 2020-07-23 22:26:50
 
@@ -55,8 +58,8 @@ Your algorithm should run in linear runtime complexity. Could you implement it u
 [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) (Hard) <br>
 
 ## What a(n) Easy problem!
-Among **933088** total submissions, **483475** are accepted, with an acceptance rate of 51.8%. <br>
+Among **934153** total submissions, **484093** are accepted, with an acceptance rate of **51.8%**. <br>
 
-- Likes: 1928
-- Dislikes: 2214
+- Likes: 1930
+- Dislikes: 2217
 
