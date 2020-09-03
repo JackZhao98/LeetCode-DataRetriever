@@ -2,15 +2,15 @@
 
 
 
-:+1: 939 &nbsp; &nbsp; :thumbsdown: 1238
+:+1: 982 &nbsp; &nbsp; :thumbsdown: 1320
 
 ---
 
 ## My Submission
 
 - Language: python3
-- Runtime: 44 ms
-- Completed time: 2020-07-23 15:53:54
+- Runtime: 40 ms
+- Completed time: 2020-08-26 18:17:23
 
 ```python3
 class Solution:
@@ -62,8 +62,8 @@ Return:
 [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) (Medium) <br>
 
 ## What a(n) Easy problem!
-Among **566202** total submissions, **352996** are accepted, with an acceptance rate of **62.3%**. <br>
+Among **599706** total submissions, **379106** are accepted, with an acceptance rate of **63.2%**. <br>
 
-- Likes: 939
-- Dislikes: 1238
+- Likes: 982
+- Dislikes: 1320
 

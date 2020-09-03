@@ -2,7 +2,7 @@
 
 [![Linked%20List_badge](https://img.shields.io/badge/topic-Linked%20List-green.svg)](https://leetcode.com/problems/reorder-list/) 
 
-:+1: 2345 &nbsp; &nbsp; :thumbsdown: 125
+:+1: 2383 &nbsp; &nbsp; :thumbsdown: 125
 
 ---
 
@@ -74,8 +74,8 @@ Given 1-&gt;2-&gt;3-&gt;4-&gt;5, reorder it to 1-&gt;5-&gt;2-&gt;4-&gt;3.
 
 
 ## What a(n) Medium problem!
-Among **688302** total submissions, **266891** are accepted, with an acceptance rate of **38.8%**. <br>
+Among **693709** total submissions, **270071** are accepted, with an acceptance rate of **38.9%**. <br>
 
-- Likes: 2345
+- Likes: 2383
 - Dislikes: 125
 
